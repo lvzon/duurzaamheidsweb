@@ -5,7 +5,8 @@ from __future__ import unicode_literals
 AUTHOR = u'Levien van Zon'
 SITENAME = u'Duurzaamheidsweb'
 #SITEURL = 'http://192.168.254.5/levien.zonnetjes.net/duurzaamheid'
-SITEURL = 'http://levien.zonnetjes.net/duurzaamheid'
+#SITEURL = 'http://levien.zonnetjes.net/duurzaamheid'
+SITEURL = ''
 
 TIMEZONE = 'Europe/Paris'
 
