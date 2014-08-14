@@ -17,7 +17,10 @@ Het derde grote probleem is eveneens gerelateerd aan de eerste twee: het energie
 
 Ik zal in latere artikelen meer aandacht besteden aan deze drie problemen. De essentie is echter dat we door een sterke groei in wereldbevolking en welvaart, in toenemende mate land en energie gebruiken. Naast het feit dat land en fossiele brandstoffen eindig zijn, heeft deze toename allerlei negatieve effecten op de stabiliteit van ecosystemen, klimaat en samenleving. Ons begrip van de gevolgen, hoewel incompleet, is aanzienlijk toegenomen sinds ik als elfjarige met een spandoek op de lokale vuilstort stond. Het positieve hiervan is dat dit tevens heeft geleid tot meer bewustwording. De laatste paar jaar is een brede pro-duurzaamheidsbeweging opgekomen. Binnen enkele jaren zijn termen als *duurzaam*, *groen*, *eerlijk* en *klimaatneutraal* dagelijks gebruikte begrippen geworden onder veel burgers, bij de overheid en in het bedrijfsleven. Dit is een uitermate goede zaak, en het is hard nodig, maar het is helaas niet voldoende.
 
-Begrijp me niet verkeerd, er zijn een hoop positieve ontwikkelingen gaande. De overheid en veel bedrijven in Nederland zijn op de goede weg. Er worden ambitieuze *targets* gesteld, zoals [http://www.pianoo.nl/themas/duurzaam-inkopen][100% duurzame overheidsinkopen in 2015], een [http://www.wageningenur.nl/nl/show/UITGELICHT-LEI-onderzoekt-duurzaamheid-in-keten-cacao-1.htm][volledig duurzame Nederlandse cacaoconsumptie in 2025] ...
+Begrijp me niet verkeerd, er zijn een hoop positieve ontwikkelingen gaande. De overheid en veel bedrijven in Nederland zijn op de goede weg. Er worden ambitieuze doelen gesteld, zoals [http://www.pianoo.nl/themas/duurzaam-inkopen][100% duurzame overheidsinkopen in 2015], [http://www.verantwoordesoja.nl/][100% verantwoorde soja in 2015], [http://www.taskforceduurzamepalmolie.nl/][100% duurzame palmolie in 2015], [http://www.knvkt.nl/werkvelden/duurzaamheid/duurzame-ontwikkeling-in-de-koffieketen/oorsprong][75% duurzame koffie in 2015] en [http://www.vvnh.nl/duurzame-vvnh-import][50% duurzaam hardhout in 2015].
+
+
+een [http://www.wageningenur.nl/nl/show/UITGELICHT-LEI-onderzoekt-duurzaamheid-in-keten-cacao-1.htm][volledig duurzame Nederlandse cacaoconsumptie in 2025] ...
 Eén van de problemen is echter dat deze doelstellingen vaak niet gehaald worden.
 
 Ook consumenten
@@ -25,7 +28,7 @@ Ook consumenten
 **TODO:** Overheid en bedrijfsleven zijn op op zich op de goede weg, stellen ambitieuze targets. Probleem is echter dat die meestal niet gehaald worden. (voorbeelden uit PBL-rapport). Als consument en werknemer kun je echter een hoop doen. Maar waar te beginnen?
 
 Het grootste probleem is dat de "duurzaamheidsindustrie" vooralsnog vooral een *feel-good*-industrie is, zonder veel gevoel voor prioriteiten. Een groot deel van de "duurzame" en "eerlijke" producten die op de markt zijn verschenen, evenals veel websites, boeken, artikelen en video's over "duurzaam leven", lijken vooral bedoeld om je *het gevoel te geven* dat je iets goeds doet voor de wereld. In de praktijk leiden veel van deze producten en tips echter nauwelijks tot een meer duurzame of eerlijke samenleving. Soms zijn ze zelfs contraproductief. 
-**TODO:** Voorbeelden
+**TODO:** Voorbeelden, bv. het aanschaffen van energiezuinige apparatuur, wat kan leiden tot meer energiegebruik. (idem met mini-windmolens of ondeugdelijke zonnepanalen)
 
 Gelukkig is er ook goed nieuws. Als consument, en als werkend mens, heb je invloed, waarschijnlijk veel meer invloed dan je denkt. Het gaat hierbij om prioriteiten stellen en keuzes maken. Soms zijn deze keuzes lastig, zeker als het om onze consumptiepatronen, ons gemak en onze vrijetijdsbesteding gaat. En hiervoor is goede informatie nodig, om onze keuze te kunnen maken en om prioriteiten te kunnen stellen. Het eigenaardige is dat er over het algemeen voldoende goede informatie is. Maar de informatie is vaak lastig te vinden, en er wordt vaak weinig aandacht aan besteed. Feiten en getallen verstoren immers het *feel-good*-gevoel, en maken zaken minder eenvoudig dan we ze graag zien. We neigen er van nature naar dingen zo simpel mogelijk te houden, zeker als ze onze overtuigingen en ons dagelijks leven raken. 
 
@@ -84,7 +87,7 @@ Een deel van de fossiele brandstoffen wordt omgezet in electriciteit, waarbij en
 In totaal leidde het verbranden van niet-hernieuwbare energiebronnen in 2011 tot 31342 Mt (megaton) CO~2~-uitstoot (ongeveer 92% van de totale CO~2~-uitstoot, en 64% van de totale menselijke uitstoot van broeikasgassen). Hiervan is 44% afkomstig van kolen en turf, 35.3% van olie, 20.2% van aardgas en 0.5% van afval en overige bronnen.
 Ongeveer 40% van de energie (5239 Mtoe in 2012) wordt gebruikt door de 34 rijke OECD-landen (Organisation for Economic Co-operation and Development), die grofweg 18% van de wereldbevolking vertegenwoordigen (1.26 miljard mensen in 2013). Het gemiddelde energiegebruik per OECD-burger is dus meer dan twee keer het wereldgemiddelde, ongeveer 48356 kWh per persoon in 2012, of 132 kWh per persoon per dag.
 Het bruto-energieverbruik in Nederland in 2012 was 951 TWh (volgens [http://epp.eurostat.ec.europa.eu/portal/page/portal/energy/data/main_tables][Eurostat]). Hiervan is ongeveer 92% afkomstig uit fossiele brandstoffen: 41.4% uit aardolieproducten, 40.4% uit aardgas, 10% uit kolen, 4.3% uit hernieuwbare bronnen, 1.2% uit nucleaire energie en 0.9% uit afval.
-Het bruto-verbruik van Nederland komt neer op 56610 kWh per inwoner in 2012, of 155 kWh per persoon per dag. Echter, hiervan wordt slechts 595 TWh (62.5%) uiteindelijk geleverd aan de gebruikers, de rest gaat verloren in energieconversie en -transport. Van de overgebleven energie wordt 28.9% gebruikt voor transport, 27.1% voor industrie, 20.1% voor huishoudens, 17% voor de dienstensector en 6.5% voor land- en bosbouw.
+Het bruto-verbruik van Nederland in 2012 komt neer op 56610 kWh per inwoner, of 155 kWh per persoon per dag. Echter, hiervan wordt slechts 595 TWh (62.5%) uiteindelijk geleverd aan de gebruikers, de overige 37.5% gaat verloren in energieconversie en -transport. Van de overgebleven energie wordt 28.9% gebruikt voor transport, 27.1% voor industrie, 20.1% voor huishoudens, 17% voor de dienstensector en 6.5% voor land- en bosbouw.
 
 
 [^agriland]: 
@@ -92,8 +95,11 @@ Dit zijn vrij groffe schattingen, hoeveel landbouwgrond er per jaar bijkomt en v
 Een manier om dergelijke grote getallen inzichtelijker te maken is door ze te presenteren als gemiddeld oppervlak per hoofd van de wereldbevolking: Per per persoon wordt er jaarlijks rond de 18 m^2 aan nieuwe landbouwgrond in gebruik genomen, en verliezen we rond de 12 m^2 door bodemdegradatie.
 De netto-toename van landbouwgrond is de bruto-toename minus het verlies aan landbouwgrond door bebouwing, degradatie van de bodem, de afname van landbouw in West-Europa, etc. Statistieken van de FAO laten zien dat de netto-toename van landbouwgrond tussen 1960 en 2000 gemiddeld rond de 6 Mha per jaar lag, maar dat effectief de hoeveelheid landbouwgrond de laatste jaren nauwelijks meer toeneemt. 
 
+
 [^energiegebruik]:
 Volgens het [http://www.nibud.nl/uitgaven/huishouden/gas-elektriciteit-en-water.html][NIBUD] gebruikt een gemiddeld Nederlands huishouden per jaar ongeveer 3340 kWh aan electriciteit. Een gemiddeld huis gebruikt daarnaast ongeveer 1440 m^3^ gas per jaar, wat neerkomt op 15206 kWh aan energie (aardgas heeft een energie-inhoud van 10.56 kWh per m^3^). Het *directe* energieverbruik van een gemiddeld huishouden in Nederland is dus grofweg 18546 kWh per jaar, of 60 kWh per dag. Het totale energieverbruik is uiteraard veel hoger, naast het directer verbruik van huishouden wordt veel energie gebruikt voor transport, en indirect voor het bouwen en draaiende houden van infrastructuur, het verbouwen van voedsel en het vervaardigen van consumptiegoederen.
+Het totale energiegebruik van een Nederlander ligt waarschijnlijk in de richting van 200 kWh per dag.
+
 
 [^carbonfootprint]:
 http://www.cbs.nl/nl-NL/menu/themas/macro-economie/publicaties/artikelen/archief/2010/2010-3211-wm.htm
