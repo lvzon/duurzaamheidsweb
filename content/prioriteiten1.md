@@ -13,15 +13,14 @@ Dergelijke opsomingen van ellende in de wereld maken een mens makkelijk moedeloo
 Zelfs de grootste scepticus van klimaatverandering zal waarschijnlijk niet ontkennen dat de samenleving in haar (zijn?) huidige vorm niet écht duurzaam is. Dat wil zeggen, ze kan niet blijven bestaan in de huidige vorm, zonder andere levensvormen en uiteindelijk ook zichzelf te schaden. Je hoeft niet erg diep in technische details te duiken om dat te zien. Ik zal drie concrete voorbeelden noemen, die met elkaar samenhangen. Het gaat om processen die, zonder ingrijpen, binnen een generatie tot onoplosbare problemen kunnen leiden. 
 Allereerst, de groei van de wereldbevolking remt af, maar zal zelfs in het meest optimistische scenario leiden tot zo'n 8.3 miljard mensen in 2050.[^worldpop] Dergelijke getallen zijn niet echt meer voor te stellen, in 1970 telde de wereld nog "slechts" 3.7 miljard mensen. De wereldbevolking is sindsdien verdubbeld, maar de wereld is de afgelopen 44 jaar niet groter geworden.
 Het tweede grote probleem is hier deels een gevolg van: Al deze mensen hebben minimaal voedsel, kleding en woonruimte nodig. Het landoppervlak dat mensen gebruiken, neemt snel toe. De bevolkingsgroei draagt hieraan bij, maar ook de toegenomen welvaart. De hoeveelheid vruchtbaar land op aarde is beperkt (we gebruiken momenteel al meer dan tweederde van het beschikbare land voor landbouw). Bovendien is ons toenemend landgebruik de voornaamste oorzaak van het uitsterven van plant- en diersoorten. 
-Het derde grote probleem is eveneens gerelateerd aan de eerste twee: het energiegebruik neemt snel toe, zowel totaal als per persoon. Dit is vooral een probleem omdat deze energie voor ruim 80%[^worldenergy] wordt betrokken uit het verbranden van fossiele brandstoffen. Niet alleen is de voorraad hiervan eindig, maar de restproducten van deze verbranding (met name CO~2~) vormen veruit de belangrijkste bijdrage aan klimaatverandering.
+Het derde grote probleem is eveneens gerelateerd aan de eerste twee: het energiegebruik neemt snel toe, zowel totaal als per persoon. Dit is vooral een probleem omdat deze energie wereldwijd voor ruim 80%[^worldenergy] wordt betrokken uit het verbranden van fossiele brandstoffen. Niet alleen is de voorraad hiervan eindig, maar de restproducten van deze verbranding (met name CO~2~) vormen veruit de belangrijkste bijdrage aan klimaatverandering.
 
 Ik zal in latere artikelen meer aandacht besteden aan deze drie problemen. De essentie is echter dat we door een sterke groei in wereldbevolking en welvaart, in toenemende mate land en energie gebruiken. Naast het feit dat land en fossiele brandstoffen eindig zijn, heeft deze toename allerlei negatieve effecten op de stabiliteit van ecosystemen, klimaat en samenleving. Ons begrip van de gevolgen, hoewel incompleet, is aanzienlijk toegenomen sinds ik als elfjarige met een spandoek op de lokale vuilstort stond. Het positieve hiervan is dat dit tevens heeft geleid tot meer bewustwording. De laatste paar jaar is een brede pro-duurzaamheidsbeweging opgekomen. Binnen enkele jaren zijn termen als *duurzaam*, *groen*, *eerlijk* en *klimaatneutraal* dagelijks gebruikte begrippen geworden onder veel burgers, bij de overheid en in het bedrijfsleven. Dit is een uitermate goede zaak, en het is hard nodig, maar het is helaas niet voldoende.
 
 Begrijp me niet verkeerd, er zijn een hoop positieve ontwikkelingen gaande. De overheid en veel bedrijven in Nederland zijn op de goede weg. Er worden ambitieuze doelen gesteld, zoals [http://www.pianoo.nl/themas/duurzaam-inkopen][100% duurzame overheidsinkopen in 2015], [http://www.verantwoordesoja.nl/][100% verantwoorde soja in 2015], [http://www.taskforceduurzamepalmolie.nl/][100% duurzame palmolie in 2015], [http://www.knvkt.nl/werkvelden/duurzaamheid/duurzame-ontwikkeling-in-de-koffieketen/oorsprong][75% duurzame koffie in 2015] en [http://www.vvnh.nl/duurzame-vvnh-import][50% duurzaam hardhout in 2015].
 
 
-een [http://www.wageningenur.nl/nl/show/UITGELICHT-LEI-onderzoekt-duurzaamheid-in-keten-cacao-1.htm][volledig duurzame Nederlandse cacaoconsumptie in 2025] ...
-Eén van de problemen is echter dat deze doelstellingen vaak niet gehaald worden.
+Eén van de problemen is echter dat deze doelstellingen vaak niet gehaald worden, of op papier beter klinken dan ze in werkelijkheid zijn[^greendeals].
 
 Ook consumenten
  
@@ -97,11 +96,20 @@ De netto-toename van landbouwgrond is de bruto-toename minus het verlies aan lan
 
 
 [^energiegebruik]:
-Volgens het [http://www.nibud.nl/uitgaven/huishouden/gas-elektriciteit-en-water.html][NIBUD] gebruikt een gemiddeld Nederlands huishouden per jaar ongeveer 3340 kWh aan electriciteit. Een gemiddeld huis gebruikt daarnaast ongeveer 1440 m^3^ gas per jaar, wat neerkomt op 15206 kWh aan energie (aardgas heeft een energie-inhoud van 10.56 kWh per m^3^). Het *directe* energieverbruik van een gemiddeld huishouden in Nederland is dus grofweg 18546 kWh per jaar, of 60 kWh per dag. Het totale energieverbruik is uiteraard veel hoger, naast het directer verbruik van huishouden wordt veel energie gebruikt voor transport, en indirect voor het bouwen en draaiende houden van infrastructuur, het verbouwen van voedsel en het vervaardigen van consumptiegoederen.
-Het totale energiegebruik van een Nederlander ligt waarschijnlijk in de richting van 200 kWh per dag.
+Elektriciteitsverbruik wordt meestal uitgedrukt in kilowatt-uur (kWh), ofwel de hoeveelheid energie die een apparaat van 1000 Watt gebruikt gedurende een uur (in SI-eenheden: 3.6 MJ). Volgens het [http://www.nibud.nl/uitgaven/huishouden/gas-elektriciteit-en-water.html][NIBUD] gebruikt een gemiddeld Nederlands huishouden per jaar ongeveer 3340 kWh aan electriciteit. Een gemiddeld huis gebruikt daarnaast ongeveer 1440 m^3^ gas per jaar, wat neerkomt op 15206 kWh aan energie (aardgas heeft een energie-inhoud van 10.56 kWh per m^3^). Het *directe* energieverbruik van een gemiddeld huishouden in Nederland is dus grofweg 18546 kWh per jaar, of 60 kWh per dag. Het totale energieverbruik is uiteraard veel hoger, naast het directe verbruik van huishoudens is immers ook energie nodig voor transport, en indirect voor het bouwen en draaiende houden van infrastructuur, het verbouwen van voedsel en het vervaardigen van consumptiegoederen. Het primaire energieverbruik van een gemiddelde Nederlander is 155 kWh per dag.[^worldenergy] De Engelse auteur David MacKay schat daarnaast in [http://www.withouthotair.com/cH/page_322.shtml][appendix H] van zijn boek [http://www.withouthotair.com][Sustainable Energy Without The Hot Air] hoeveel energie nodig is voor het vervaardigen van onze geïmporteerde goederen. Voor het Verenigd Koninkrijk komt dit neer op minstens 40 kWh per persoon per dag, nog zonder de bijdrage van geïmporteerd voedsel en veevoer. Als we aannemen dat de getallen voor Nederland niet veel verschillen van die voor Engeland, dan is het aannamelijk dat het totale energiegebruik van een gemiddelde Nederlander iets boven de 200 kWh per dag ligt. Een Nederlander gebruikt dus meer dan 73000 kWh per jaar. Dit is grofweg de hoeveelheid energie die vrijkomt bij het verbranden van 50 vaten ruwe olie (een vat is 159 liter, en het verbranden ervan levert ongeveer 1700 kWh aan energie). Voordat fossiele brandstoffen algemeen beschikbaar werden, waren hout, wind en turf de vornaamste energiebronnen in Nederland, en was het energieverbruik van de gemiddelde Nederlander naar schatting zo'n tien keer lager: rond de 20 kWh per dag ([http://scholar.google.nl/scholar?cluster=16248520371132801036&hl=en&as_sdt=0,5][Gales et al. 2007]). Een andere manier om deze getallen in perspectief te krijgen is als volgt: Een gemiddeld mens verbrandt ongeveer [http://www.withouthotair.com/c13/page_76.shtml][3 kWh per dag aan voedsel], en [http://www.withouthotair.com/c2/page_24.shtml][levert ongeveer 1 kWh per dag aan arbeid]. Een energiegebruik van 200 kWh per dag is dus vergelijkbaar met 200 mensen die dag in, dag uit voor je werken.
 
+**TODO:** vergelijk met getallen in Sustainable Energy Without The Hot Air
+http://www.withouthotair.com/c18/page_104.shtml
+European average use of primary energy (without emedded energy in food and items): 125 kWh/person/day
+UK is 125, US is 250, NL is indeed around 160
+Embedded energy of imported stuff: at least 40 kWh/person/day
+Conversion losses around 22%, electricity transport losses around 1%
+400 years ago, an average person used around 20 kWh/day, and the footprint just for wood (~4 kg per day) was already 1 ha/person (Malanima (2006))
+The "power" provided by one manservant is around 1 kWh/day
 
 [^carbonfootprint]:
+In het rapport [http://www.cbs.nl/nl-NL/menu/themas/macro-economie/publicaties/publicaties/archief/2010/2010-milieurekeningen-pub.htm][Environmental Accounts of the Netherlands 2009 (Milieurekeningen 2009)] (p.39) heeft het CBS de uitstoot van broeikasgassen geschat als gevolg van de Nederlandse consumptie. Voor 2009 was dit 228 Mton CO~2~-eq (megaton CO~2~-equivalent). Nederland had in 2009 ongeveer 16.53 miljoen inwoners, dus de gemiddelde uitstoot van een Nederlander was 13.8 ton CO~2~-eq per jaar, of 37.8 kg per dag.
+
 http://www.cbs.nl/nl-NL/menu/themas/macro-economie/publicaties/artikelen/archief/2010/2010-3211-wm.htm
 en pag. 39 van het CBS-rapport [http://www.cbs.nl/nl-NL/menu/themas/macro-economie/publicaties/publicaties/archief/2010/2010-milieurekeningen-pub.htm][Environmental Accounts of the Netherlands 2009 (Milieurekeningen 2009)].
 228 Mton CO2-eq in 2009, 16530000 mensen, komt neer op ongeveer 13.8 ton CO2-eq per capita per jaar, of 7675 m^3^ (op zeeniveau), iets boven het gemiddelde voor hoog-inkomenslanden (13 ton/cap/yr, 35.6 kg/cap/dag). Dat is 37.8 kg per dag, ofwel 21 (20.55) m^3^, of 20547 L (meer dan twintigduizend liter). Wereldwijde broeikasgas-uitstoot in 2010 was 49(±4.5) gigaton CO2-eq, de populatie was ca. 6.916 miljard. Komt neer op 7,085 ton per persoon per jaar, of 19.4 kg per dag. Voor lage-inkomenslanden is dit slechts 3.84 kg/cap/dag. Een mens ademt gemiddeld 1 kg CO2 per dag uit (ongeveer net zo veel als het verbranden van 1 liter benzine oplevert, dus 18 km rijden in een auto van 1:18 stoot net zo veel CO2 uit als 1 persoon op een dag, plus de CO2 nodig voor de benzineproductie etc.). Een Nederlander veroorzaakt dus bijna 40x zo veel uitstoot door consumptie dan dat hij zelf uitademt. In lage-inkomenslanden is dit slechts zo'n 4x.
@@ -121,6 +129,50 @@ Iedere kubieke meter aardgas die je verbruikt wordt omgezet in een kubieke meter
 Hier kies ik maar even een ruwere aanpak. Hoe veel broeikasgas komt er dankzij de gemiddelde Nederlander per jaar in de lucht terecht? Als land produceren we, als je alle broeikasgassen omrekent naar CO2, jaarlijks zo’n 200 megaton, tweehonderd miljard kilo dus. Dat is per Nederlander (er zijn er nu 16,8 miljoen) ongeveer 12 ton. Een ton CO2 neemt (op zeeniveau) 556,2 kubieke meter in, dus in totaal ben je als gemiddelde Nederlander goed voor 6621 kubieke meter CO2 per jaar. Daar kun je ruim tweeënhalf Olympisch zwembad mee vullen. Alle Nederlanders samen produceren 111 kubieke kilometer CO2, en dat is bijna genoeg om het IJsselmeer twee keer te vullen.
 
 Toch is dat geen eerlijke som, want de uitstoot van internationale vrachtschepen en van vliegtuigen is niet meegerekend. Bovendien wordt de CO2-uitstoot van landen als China grotendeels veroorzaakt door fabrieken die produceren voor de westerse markt.
+
+
+[^greendeals]:
+Het is onwaarschijnlijk dat de overheidsinkopen op korte termijn volledig duurzaam zouden zijn, en zelfs al zou dat wel het geval zijn, is de vraag wat "duurzaam" in dit geval betekent.
+
+Green Deals tussen industrie en overheid (zie overzicht).
+
+Aandeel duurzame koffie en thee in 2013 was 20.7%: http://www.monitorduurzaamvoedsel.nl/%28X%281%29S%28dpvobcha0uthynn3rxzc4mne%29%29/ProductgroepResultaat.aspx?GrandParentID=1850&ParentID=1912&GrantPnode=Koffie+en+thee
+
+Aandeel duurzame palmolie groeit extreem snel, in de NL voedingsmiddelenindustrie was het 30% in 2011, en 61% in 2013. http://www.taskforceduurzamepalmolie.nl/Rapportage/tabid/2279/language/en-US/Default.aspx
+Probleem is dat het hier enkel de voedingsmiddelen geproduceerd door de Nederlandse industrie voor de NL-markt betreft. De diervoederindustrie doet ook mee, maar loopt met 7% nog ver achter.
+Betreft hier palmolie geproduceerd volgens RSPO-criteria (Round Table for Sustainable Palm Oil). Veel kritiek op RSPO: 
+[http://whatispalmoil.weebly.com/blog/how-sustainable-is-the-rspo][Palm Oil Awareness Initiative]
+[http://www.orangutanrepublik.org/become-aware/issues/environmental-challenges-a-solutions/the-rspo-a-sustainable-palm-oil][Urang Utan Republik Foundation]
+[http://www.greenpeace.de/files/publications/rspo-certifying-destruction.pdf][Greenpeace Report]
+
+
+Verantwoorde soja van de Roundtable for Responsible Soy (RTRS), die door velen wordt beschouwd als een goed voorbeeld van Greenwash.
+http://corporateeurope.org/2012/02/ahold-rtrs-certified-soy-means-no-improvement-soy-production
+http://www.independentsciencenews.org/environment/way-beyond-greenwashing-have-multinationals-captured-big-conservation/print/
+Bovendien worden de afspraken niet nagekomen, in 2013 werd ongeveer een derde van de doelstelling gehaald: 
+http://www.solidaridad.nl/inkoop-verantwoorde-soja-nederland-valt-tegen
+http://www.trouw.nl/tr/nl/4332/Groen/article/detail/3593796/2014/02/10/Alleen-nog-duurzame-soja-is-stap-te-ver-voor-vleesindustrie.dhtml
+In 2011 was 7% van de soja die in NL werd verwerkt "verantwoord" geproduceerd: http://www.solidaridad.nl/inkoop-verantwoorde-soja-nederland-loopt-achter-bij-ambities
+
+
+Aandeel hardhout met keurmerk wordt aardig gehaald door VVNH, maar dat is niet voldoende want geimporteerde meubels en vloeren vallen hier vaan niet onder, en het grootste deel van de tropische houtproductie is niet duurzaam. 
+http://www.greenpeace.nl/Global/nederland/2013/Bossen/GP_winkelrapport_12%20pag.pdf
+Winkels als Xenos en veel vloerbedrijven verkopen veel ongecertificeerd hardhout, en zijn geen lid van de VVNH (Greenpeace 2013). 
+En twijfels over FSC en PEFC: http://www.piepvandaag.nl/opinie-houtkap-in-amazonegebied-groen-gewassen-met-fsc-keurmerk/
+http://www.fern.org/publications/reports/behind-logo-environmental-and-social-assessment-forest-certification-schemes
+
+Maar dat mag geen excuus zijn om ongecertificeerd hardhout te gebruiken! Meer controle en certificering is hard nodig.
+Slechts 6% (20 Mha in tropen) van tropisch productiebos (100% = ~333 Mha?) is FSC-gecertificeerd (dus dus overige ~313 Mha niet?)
+255 Mha PEFC, maar slechts ~6.2 Mha hiervan in de tropen
+Dus FSC + PEFC is ~26 Mha (~7.8%). Klopt niet, want elders wordt gemeld dat in 2011 ongeveer 6% van tropisch productiebos wereldwijd was gecertificeerd, en in totaal ~18% van het productiebos: http://www.probos.net/rapporten-2011/126-eindverslag-projectevaluaties-overheden-in-de-bouw
+The forest area designated for production in ITTO producer member countries is estimated to be 353 million hectares, or 29 per cent of the total area of tropical closed forest (estimated by FAO 2001 to be 1.2 billion hectares).
+
+"The area of sustainably managed tropical forests has expanded from less than one million hectares in 1988 to at least 36 million hectares in 2005. [...] Today we do know that a total area of tropical forest about the size of Germany is in good hands [...] The report finds that the amount of forest land being managed sustainably comprises less than 5 percent of the 814 million hectares surveyed by the report — two-thirds of all natural tropical forests in the world." http://www.itto.int/news_releases/id=12620000
+
+http://www.probos.nl/images/pdf/kerngegevens/kerngegevens2013.pdf
+http://www.fsc.nl/nieuws.613.955.htm
+
+
 
 
 
