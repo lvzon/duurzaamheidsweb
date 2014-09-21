@@ -32,9 +32,9 @@ SITE_LICENSE = 'Except where otherwise noted, content on this site is licensed u
 #SITE_DESCRIPTION = 'duurzaamheidsweb.nl'
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
-TRANSLATION_FEED_ATOM = None
+#FEED_ALL_ATOM = None
+#CATEGORY_FEED_ATOM = None
+#TRANSLATION_FEED_ATOM = None
 
 # Blogroll
 LINKS =  (('Pelican', 'http://getpelican.com/'),
