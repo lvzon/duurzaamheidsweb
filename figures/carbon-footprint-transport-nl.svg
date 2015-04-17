@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="480"
+   height="460"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r"
+   sodipodi:docname="carbon-footprint-transport-nl.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Sstart"
+       style="overflow:visible">
+      <path
+         id="path5341"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart"
+       style="overflow:visible">
+      <path
+         id="path5335"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible">
+      <path
+         id="path5338"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send"
+       style="overflow:visible">
+      <path
+         id="path5344"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3442">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         id="rect3444"
+         width="20.614058"
+         height="12.483703"
+         x="171.99832"
+         y="239.1203" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.6630435"
+     inkscape:cx="240"
+     inkscape:cy="230"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="977"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-45.361264,-276.79473)">
+    <g
+       id="g4082"
+       transform="translate(-2.205562,-105.84766)">
+      <rect
+         y="527.86853"
+         x="91.386284"
+         height="214.68677"
+         width="98.779144"
+         id="rect2985-8"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <flowRoot
+         transform="translate(1.2055435,397.8512)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         id="flowRoot5409-5"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5411-4"><rect
+             y="221.58417"
+             x="89.955986"
+             height="48.486919"
+             width="98.887787"
+             id="rect5413-3" /></flowRegion><flowPara
+           style="font-size:8px;text-align:center;text-anchor:middle"
+           id="flowPara5415-87">wegverkeer</flowPara><flowPara
+           id="flowPara5481"
+           style="font-size:8px;text-align:center;text-anchor:middle" /><flowPara
+           id="flowPara5479"
+           style="font-size:8px;text-align:center;text-anchor:middle">5.4 kg</flowPara></flowRoot>    </g>
+    <g
+       id="g4054"
+       transform="translate(-2.300899,-157.3993)">
+      <rect
+         y="805.54865"
+         x="91.167274"
+         height="59.124783"
+         width="99.407837"
+         id="rect2985-31-6"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <flowRoot
+         transform="translate(1.199322,593.47216)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         id="flowRoot5409-5-7"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5411-4-5"><rect
+             y="221.58417"
+             x="89.955986"
+             height="48.486919"
+             width="98.887787"
+             id="rect5413-3-7" /></flowRegion><flowPara
+           id="flowPara5583"
+           style="font-size:8px;text-align:center;text-anchor:middle">luchtvaart</flowPara><flowPara
+           style="font-size:8px;text-align:center;text-anchor:middle"
+           id="flowPara4012">(in 2010)</flowPara><flowPara
+           style="font-size:8px;text-align:center;text-anchor:middle"
+           id="flowPara4014"></flowPara><flowPara
+           style="font-size:8px;text-align:center;text-anchor:middle"
+           id="flowPara4016">±1.5 kg</flowPara></flowRoot>    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99655718;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2985-31-3"
+       width="99.003441"
+       height="0.48483169"
+       x="89.068581"
+       y="642.40814" />
+    <g
+       id="g5203"
+       transform="translate(45.123772,-38.733261)">
+      <rect
+         y="460.66245"
+         x="147.46788"
+         height="136.78864"
+         width="98.807106"
+         id="rect2985-8-2"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <flowRoot
+         transform="translate(56.814793,281.573)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         id="flowRoot5409-5-66"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5411-4-72"><rect
+             y="221.58417"
+             x="89.955986"
+             height="65.99501"
+             width="99.860466"
+             id="rect5413-3-3" /></flowRegion><flowPara
+           id="flowPara5672"
+           style="font-size:8px;text-align:center;text-anchor:middle">personenauto's</flowPara><flowPara
+           id="flowPara4030"
+           style="font-size:8px;text-align:center;text-anchor:middle" /><flowPara
+           id="flowPara4032"
+           style="font-size:8px;text-align:center;text-anchor:middle">3.45 kg</flowPara><flowPara
+           id="flowPara5199"
+           style="font-size:8px;text-align:center;text-anchor:middle" /><flowPara
+           id="flowPara5201"
+           style="font-size:8px;text-align:center;text-anchor:middle">22.3 km/dag</flowPara></flowRoot>    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5409-5-66-0-5-2-9"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="translate(101.11148,465.30045)"><flowRegion
+         id="flowRegion5411-4-72-1-8-7-0"><rect
+           id="rect5413-3-3-8-4-5-4"
+           width="98.887787"
+           height="48.486919"
+           x="89.955986"
+           y="221.58417" /></flowRegion><flowPara
+         style="font-size:8px;text-align:center;text-anchor:middle"
+         id="flowPara5672-2-0-2-9">trein, 0.015 kg, </flowPara><flowPara
+         style="font-size:8px;text-align:center;text-anchor:middle"
+         id="flowPara5214">2.2 km/dag</flowPara></flowRoot>    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.00166249;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2985-8-3-3"
+       width="98.998337"
+       height="69.065941"
+       x="192.35246"
+       y="561.26349" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5409-5-66-0-1-3"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="matrix(1.0016289,0,0,0.99997897,102.02128,361.3731)"><flowRegion
+         id="flowRegion5411-4-72-1-7-1"><rect
+           id="rect5413-3-3-8-2-9"
+           width="98.887787"
+           height="48.486919"
+           x="89.955986"
+           y="221.58417" /></flowRegion><flowPara
+         style="font-size:7.99357653px;text-align:center;text-anchor:middle"
+         id="flowPara5904">goederenvervoer</flowPara><flowPara
+         style="font-size:7.99357653px;text-align:center;text-anchor:middle"
+         id="flowPara4900" /><flowPara
+         style="font-size:7.99357653px;text-align:center;text-anchor:middle"
+         id="flowPara4902">1.76 kg</flowPara></flowRoot>    <g
+       id="g5041"
+       transform="translate(34.14405,-119.89949)">
+      <rect
+         y="527.5575"
+         x="297.0896"
+         height="46.507549"
+         width="98.507545"
+         id="rect2985-8-5-8"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <flowRoot
+         transform="translate(207.13243,323.45056)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         id="flowRoot5409-5-66-0-1-9"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5411-4-72-1-7-6"><rect
+             y="221.58417"
+             x="89.955986"
+             height="48.486919"
+             width="98.887787"
+             id="rect5413-3-3-8-2-0" /></flowRegion><flowPara
+           id="flowPara5672-2-7-1"
+           style="font-size:7px;text-align:center;text-anchor:middle">werk 1.2 kg</flowPara><flowPara
+           style="font-size:8px;text-align:center;text-anchor:middle"
+           id="flowPara5216" /><flowPara
+           style="font-size:8px;text-align:center;text-anchor:middle"
+           id="flowPara5218" /></flowRoot>    </g>
+    <g
+       id="g5055"
+       transform="translate(34.144085,-127.62403)">
+      <rect
+         y="640.71863"
+         x="296.77219"
+         height="11.142296"
+         width="99.142303"
+         id="rect2985-8-5-8-5"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.85770428;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <flowRoot
+         transform="translate(207.08066,419.64993)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         id="flowRoot5409-5-66-0-1-9-1"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5411-4-72-1-7-6-9"><rect
+             y="221.58417"
+             x="89.955986"
+             height="48.486919"
+             width="98.887787"
+             id="rect5413-3-3-8-2-0-1" /></flowRegion><flowPara
+           id="flowPara5672-2-7-1-3"
+           style="font-size:7px;text-align:center;text-anchor:middle">inkopen 0.3 kg</flowPara></flowRoot>    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6250"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="translate(17.677938,239.67515)"><flowRegion
+         id="flowRegion6252"><rect
+           id="rect6254"
+           width="463.96478"
+           height="131.31079"
+           x="33.070866"
+           y="51.551643" /></flowRegion><flowPara
+         style="font-size:24px;font-weight:normal;text-align:center;text-anchor:middle;-inkscape-font-specification:Bitstream Vera Sans"
+         id="flowPara6260">De broeikas-uitstoot van verkeer</flowPara><flowPara
+         style="font-size:16px;text-align:center;text-anchor:middle"
+         id="flowPara6267" /><flowPara
+         style="font-size:12px;text-align:center;text-anchor:middle"
+         id="flowPara6273">Directe uitstoot van broeikasgassen door personenvervoer in Nederland </flowPara><flowPara
+         style="font-size:12px;text-align:center;text-anchor:middle"
+         id="flowPara4020">in 2012, geschat in kg CO<flowSpan
+   style="font-size:65.00091553%;text-align:center;text-anchor:middle;baseline-shift:sub"
+   id="flowSpan6271">2</flowSpan>-equivalent per persoon per dag.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5668"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="translate(224.22686,13.716373)"><flowRegion
+         id="flowRegion5670"><rect
+           id="rect5672"
+           width="434.78461"
+           height="89.48587"
+           x="91.431221"
+           y="704.2149" /></flowRegion><flowPara
+         id="flowPara5674"
+         style="font-size:7px">2014-09, Levien van Zon, http://duurzaamheidsweb.nl</flowPara></flowRoot>    <g
+       id="g5859"
+       transform="matrix(0.19038283,0,0,0.19038283,117.00653,616.97877)">
+      <g
+         id="g5728"
+         transform="translate(856.38655,528.28628)">
+        <circle
+           id="circle5730"
+           r="28.836"
+           cy="28.500999"
+           cx="37.785"
+           d="M 66.621,28.500999 C 66.621,44.426683 53.710683,57.337 37.785,57.337 21.859317,57.337 8.9489994,44.426683 8.9489994,28.500999 c 0,-15.925683 12.9103176,-28.83599999 28.8360006,-28.83599999 15.925683,0 28.836,12.91031699 28.836,28.83599999 z"
+           sodipodi:cx="37.785"
+           sodipodi:cy="28.500999"
+           sodipodi:rx="28.836"
+           sodipodi:ry="28.836"
+           style="fill:#ffffff" />
+        <path
+           id="path5732"
+           d="m 37.441,-3.5 c 8.951,0 16.572,3.125 22.857,9.372 3.008,3.009 5.295,6.448 6.857,10.314 1.561,3.867 2.344,7.971 2.344,12.314 0,4.381 -0.773,8.486 -2.314,12.313 -1.543,3.828 -3.82,7.21 -6.828,10.143 -3.123,3.085 -6.666,5.448 -10.629,7.086 -3.961,1.638 -8.057,2.457 -12.285,2.457 -4.228,0 -8.276,-0.808 -12.143,-2.429 C 21.434,56.452 17.967,54.109 14.9,51.043 11.833,47.977 9.5,44.519 7.9,40.671 6.3,36.823 5.5,32.767 5.5,28.5 5.5,24.271 6.309,20.205 7.928,16.3 9.547,12.395 11.9,8.9 14.985,5.814 21.08,-0.394 28.565,-3.5 37.441,-3.5 z m 0.116,5.772 c -7.314,0 -13.467,2.553 -18.458,7.657 -2.515,2.553 -4.448,5.419 -5.8,8.6 -1.354,3.181 -2.029,6.505 -2.029,9.972 0,3.429 0.675,6.734 2.029,9.913 1.353,3.183 3.285,6.021 5.8,8.516 2.514,2.496 5.351,4.399 8.515,5.715 3.161,1.314 6.476,1.971 9.943,1.971 3.428,0 6.75,-0.665 9.973,-1.999 3.219,-1.335 6.121,-3.257 8.713,-5.771 4.99,-4.876 7.484,-10.99 7.484,-18.344 0,-3.543 -0.648,-6.895 -1.943,-10.057 C 60.491,15.283 58.604,12.465 56.13,9.987 50.984,4.844 44.795,2.272 37.557,2.272 z m -0.401,20.915 -4.287,2.229 c -0.458,-0.951 -1.019,-1.619 -1.685,-2 -0.667,-0.38 -1.286,-0.571 -1.858,-0.571 -2.856,0 -4.286,1.885 -4.286,5.657 0,1.714 0.362,3.084 1.085,4.113 0.724,1.029 1.791,1.544 3.201,1.544 1.867,0 3.181,-0.915 3.944,-2.743 l 3.942,2 c -0.838,1.563 -2,2.791 -3.486,3.686 -1.484,0.896 -3.123,1.343 -4.914,1.343 -2.857,0 -5.163,-0.875 -6.915,-2.629 -1.752,-1.752 -2.628,-4.19 -2.628,-7.313 0,-3.048 0.886,-5.466 2.657,-7.257 1.771,-1.79 4.009,-2.686 6.715,-2.686 3.963,-0.002 6.8,1.541 8.515,4.627 z m 18.457,0 -4.229,2.229 c -0.457,-0.951 -1.02,-1.619 -1.686,-2 -0.668,-0.38 -1.307,-0.571 -1.914,-0.571 -2.857,0 -4.287,1.885 -4.287,5.657 0,1.714 0.363,3.084 1.086,4.113 0.723,1.029 1.789,1.544 3.201,1.544 1.865,0 3.18,-0.915 3.941,-2.743 l 4,2 c -0.875,1.563 -2.057,2.791 -3.541,3.686 -1.486,0.896 -3.105,1.343 -4.857,1.343 -2.896,0 -5.209,-0.875 -6.941,-2.629 -1.736,-1.752 -2.602,-4.19 -2.602,-7.313 0,-3.048 0.885,-5.466 2.658,-7.257 1.77,-1.79 4.008,-2.686 6.713,-2.686 3.962,-0.002 6.783,1.541 8.458,4.627 z"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g5818"
+         transform="translate(929.33649,528.28578)">
+        <circle
+           id="circle5820"
+           r="28.275999"
+           cy="28.806"
+           cx="37.637001"
+           d="m 65.913,28.806 c 0,15.616403 -12.659596,28.275999 -28.275999,28.275999 C 22.020598,57.081999 9.361002,44.422403 9.361002,28.806 9.361002,13.189597 22.020598,0.53000069 37.637001,0.53000069 53.253404,0.53000069 65.913,13.189597 65.913,28.806 z"
+           sodipodi:cx="37.637001"
+           sodipodi:cy="28.806"
+           sodipodi:rx="28.275999"
+           sodipodi:ry="28.275999"
+           style="fill:#ffffff" />
+        <g
+           id="g5822">
+          <path
+             id="path5824"
+             d="m 37.443,-3.5 c 8.988,0 16.57,3.085 22.742,9.257 6.208,6.21 9.315,13.791 9.315,22.743 0,8.991 -3.049,16.476 -9.145,22.456 C 53.879,57.319 46.242,60.5 37.443,60.5 28.794,60.5 21.29,57.356 14.929,51.07 8.644,44.784 5.5,37.262 5.5,28.5 5.5,19.739 8.644,12.158 14.929,5.758 21.101,-0.415 28.604,-3.5 37.443,-3.5 z m 0.114,5.772 c -7.276,0 -13.428,2.553 -18.457,7.657 -5.22,5.334 -7.829,11.525 -7.829,18.572 0,7.086 2.59,13.22 7.77,18.398 5.181,5.182 11.352,7.771 18.514,7.771 7.123,0 13.334,-2.607 18.629,-7.828 5.029,-4.838 7.543,-10.952 7.543,-18.343 0,-7.276 -2.553,-13.465 -7.656,-18.571 C 50.967,4.824 44.795,2.272 37.557,2.272 z m 8.572,18.285 V 33.642 H 42.473 V 49.184 H 32.529 V 33.643 H 28.873 V 20.557 c 0,-0.572 0.2,-1.057 0.599,-1.457 0.401,-0.399 0.887,-0.6 1.457,-0.6 h 13.144 c 0.533,0 1.01,0.2 1.428,0.6 0.417,0.4 0.628,0.886 0.628,1.457 z M 33.042,12.329 c 0,-3.008 1.485,-4.514 4.458,-4.514 2.973,0 4.457,1.504 4.457,4.514 0,2.971 -1.486,4.457 -4.457,4.457 -2.971,0 -4.458,-1.486 -4.458,-4.457 z"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g5048"
+       transform="translate(34.216026,-120.91158)">
+      <rect
+         y="577.1203"
+         x="297.0607"
+         height="54.913853"
+         width="98.421394"
+         id="rect2985-8-5-8-8"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.08614862;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <flowRoot
+         transform="translate(206.86515,377.21651)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         id="flowRoot5409-5-66-0-1-9-7"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5411-4-72-1-7-6-0"><rect
+             y="221.58417"
+             x="89.955986"
+             height="48.486919"
+             width="98.887787"
+             id="rect5413-3-3-8-2-0-6" /></flowRegion><flowPara
+           id="flowPara5672-2-7-1-8"
+           style="font-size:7px;text-align:center;text-anchor:middle">recreatief 1.4 kg</flowPara></flowRoot>    </g>
+    <g
+       id="g5062"
+       transform="translate(34.215984,-135.90637)">
+      <rect
+         y="661.91974"
+         x="296.61896"
+         height="7.3049517"
+         width="99.304962"
+         id="rect2985-8-5-8-5-7"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.69504815;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <flowRoot
+         transform="translate(207.00874,438.93237)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         id="flowRoot5409-5-66-0-1-9-1-1"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5411-4-72-1-7-6-9-8"><rect
+             y="221.58417"
+             x="89.955986"
+             height="48.486919"
+             width="98.887787"
+             id="rect5413-3-3-8-2-0-1-3" /></flowRegion><flowPara
+           id="flowPara5672-2-7-1-3-7"
+           style="font-size:7px;text-align:center;text-anchor:middle">diensten 0.2 kg</flowPara></flowRoot>    </g>
+    <g
+       id="g5069"
+       transform="translate(33.243328,-141.10802)">
+      <rect
+         y="676.20282"
+         x="297.67294"
+         height="11.142296"
+         width="99.142303"
+         id="rect2985-8-5-8-5-3"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.85770428;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <flowRoot
+         transform="translate(207.98142,455.13409)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         id="flowRoot5409-5-66-0-1-9-1-2"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5411-4-72-1-7-6-9-2"><rect
+             y="221.58417"
+             x="89.955986"
+             height="48.486919"
+             width="98.887787"
+             id="rect5413-3-3-8-2-0-1-2" /></flowRegion><flowPara
+           id="flowPara5672-2-7-1-3-4"
+           style="font-size:7px;text-align:center;text-anchor:middle">overig 0.3 kg</flowPara></flowRoot>    </g>
+    <g
+       id="g5191"
+       transform="translate(76.419735,-40.858728)">
+      <rect
+         y="619.51031"
+         x="254.11769"
+         height="29.204763"
+         width="99.204765"
+         id="rect2985-8-5-8-2"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <flowRoot
+         transform="translate(164.26289,401.88892)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         id="flowRoot5409-5-66-0-1-9-8"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5411-4-72-1-7-6-1"><rect
+             y="221.58417"
+             x="89.955986"
+             height="48.486919"
+             width="98.887787"
+             id="rect5413-3-3-8-2-0-0" /></flowRegion><flowPara
+           id="flowPara5672-2-7-1-6"
+           style="font-size:7px;text-align:center;text-anchor:middle">bestelauto's</flowPara><flowPara
+           style="font-size:7px;text-align:center;text-anchor:middle"
+           id="flowPara5109">0.75 kg</flowPara></flowRoot>    </g>
+    <g
+       id="g5183"
+       transform="translate(72.529065,-77.924487)">
+      <rect
+         y="687.59772"
+         x="258.00836"
+         height="29.204763"
+         width="99.204765"
+         id="rect2985-8-5-8-2-5"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <flowRoot
+         transform="translate(168.15357,469.97631)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         id="flowRoot5409-5-66-0-1-9-8-3"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5411-4-72-1-7-6-1-9"><rect
+             y="221.58417"
+             x="89.955986"
+             height="48.486919"
+             width="98.887787"
+             id="rect5413-3-3-8-2-0-0-4" /></flowRegion><flowPara
+           id="flowPara5672-2-7-1-6-0"
+           style="font-size:7px;text-align:center;text-anchor:middle">trekkers</flowPara><flowPara
+           style="font-size:7px;text-align:center;text-anchor:middle"
+           id="flowPara5109-2">0.73 kg</flowPara></flowRoot>    </g>
+    <g
+       id="g5069-6"
+       transform="matrix(1,0,0,0.96666666,32.96686,-12.965375)">
+      <rect
+         y="676.20245"
+         x="297.67261"
+         height="11.143003"
+         width="99.000687"
+         id="rect2985-8-5-8-5-3-5"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.01640069;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <flowRoot
+         transform="translate(207.98142,455.13409)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         id="flowRoot5409-5-66-0-1-9-1-2-3"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5411-4-72-1-7-6-9-2-9"><rect
+             y="221.58417"
+             x="89.955986"
+             height="48.486919"
+             width="98.887787"
+             id="rect5413-3-3-8-2-0-1-2-6" /></flowRegion><flowPara
+           id="flowPara5672-2-7-1-3-4-9"
+           style="font-size:7px;text-align:center;text-anchor:middle">vrachtauto's 0.29 kg</flowPara></flowRoot>    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5220"
+       style="font-size:7px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="translate(76.076596,272.35983)"><flowRegion
+         id="flowRegion5222"><rect
+           id="rect5224"
+           width="68.087074"
+           height="44.742935"
+           x="361.83417"
+           y="151.73691"
+           style="font-size:7px" /></flowRegion><flowPara
+         id="flowPara5226">7.7 km/dag</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5220-2"
+       style="font-size:7px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="translate(76.189877,326.88548)"><flowRegion
+         id="flowRegion5222-1"><rect
+           id="rect5224-8"
+           width="68.087074"
+           height="44.742935"
+           x="361.83417"
+           y="151.73691"
+           style="font-size:7px" /></flowRegion><flowPara
+         id="flowPara5226-8">8.8 km/dag</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5220-7"
+       style="font-size:7px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="translate(75.85394,361.90169)"><flowRegion
+         id="flowRegion5222-4"><rect
+           id="rect5224-2"
+           width="68.087074"
+           height="44.742935"
+           x="361.83417"
+           y="151.73691"
+           style="font-size:7px" /></flowRegion><flowPara
+         id="flowPara5226-0">1.9 km/dag</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5220-4"
+       style="font-size:7px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="translate(75.85394,372.36095)"><flowRegion
+         id="flowRegion5222-5"><rect
+           id="rect5224-0"
+           width="68.087074"
+           height="44.742935"
+           x="361.83417"
+           y="151.73691"
+           style="font-size:7px" /></flowRegion><flowPara
+         id="flowPara5226-05">1.2 km/dag</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5220-43"
+       style="font-size:7px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="translate(76.146909,383.54466)"><flowRegion
+         id="flowRegion5222-0"><rect
+           id="rect5224-9"
+           width="68.087074"
+           height="44.742935"
+           x="361.83417"
+           y="151.73691"
+           style="font-size:7px" /></flowRegion><flowPara
+         id="flowPara5226-2">2.0 km/dag</flowPara></flowRoot>    <path
+       style="fill:#000000;fill-opacity:1;stroke:#e5e5e5;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 321.17826,407.7882 0,139.21569"
+       id="path5294"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#e5e5e5;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 296.99525,494.7163 23.20261,-23.20261"
+       id="path5298"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#e5e5e5;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 321.65865,579.35682 0,71.24183"
+       id="path5294-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#e5e5e5;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 296.82205,595.69668 24.50979,22.54903"
+       id="path5298-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.99839896;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5321"
+       width="98.900192"
+       height="4.1597285"
+       x="192.37424"
+       y="632.4776" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Sstart)"
+       d="m 192.52075,642.66138 5.06687,0 0,49.54907 9.25254,0"
+       id="path5955"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5409-5-66-0-5-2-9-9"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="translate(101.14172,428.76689)"><flowRegion
+         id="flowRegion5411-4-72-1-8-7-0-0"><rect
+           id="rect5413-3-3-8-4-5-4-7"
+           width="98.887787"
+           height="48.486919"
+           x="89.955986"
+           y="221.58417" /></flowRegion><flowPara
+         style="font-size:8px;text-align:center;text-anchor:middle"
+         id="flowPara5672-2-0-2-9-2">motor, brommer,</flowPara><flowPara
+         style="font-size:8px;text-align:center;text-anchor:middle"
+         id="flowPara6369">bus, fiets</flowPara><flowPara
+         style="font-size:8px;text-align:center;text-anchor:middle"
+         id="flowPara5214-4">0.23 kg</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Send)"
+       d="m 240.85866,649.70875 0,-7.64657"
+       id="path6371"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
