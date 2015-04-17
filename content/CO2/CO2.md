@@ -7,6 +7,9 @@ Slug: co2
 
 **Door Levien van Zon**
 
+*This article is also available in [English](http://sustainsubstance.org/co2.html).  
+De voetnoten in dit artikel bevatten extra achtergrondinformatie en bronnen, en zijn straffeloos over te slaan of apart te lezen.*
+
 Eigenlijk was ik van plan om mijn eerste artikel te schrijven over een ander onderwerp, de ecologische voetafdruk. Maar World Climate Action Day op 21 september was een reden om toch iets te schrijven over CO~2~. Ik moet bekennen, eigenlijk vind ik dat klimaatverandering de laatste jaren iets te veel aandacht heeft gekregen. Het lijkt soms alsof duurzaamheid gelijk staat aan het terugdringen van CO~2~, en dat is uiteraard niet het geval. Teveel focus op broeikasgassen gaat ten koste van andere belangrijke onderwerpen, zoals landgebruik, biodiversiteit en ethische kwesties. Bovendien zijn de meeste mensen inmiddels "klimaatmoe". De argumenten van sceptici en "klimaatontkenners" hebben vrij effectief gezorgd voor twijfel bij het brede publiek. Tot een derde van de Nederlanders vindt niet dat klimaatverandering een ernstig probleem is, en dit aandeel lijkt nauwelijks te veranderen[^peilingen]. Toch is CO~2~ een belangrijk onderwerp om over te praten, zelfs als je twijfelt aan klimaatverandering. Er zijn, zelfs voor klimaatsceptici, wel degelijk goede redenen om haast te maken met het terugdringen van de uitstoot van CO~2~.
 
 
@@ -74,7 +77,7 @@ Het overgrote deel van onze *CO~2~-voetafdruk* wordt gevormd door de aanschaf va
 
    * Gooi de dingen die je niet meer nodig hebt niet zomaar weg. Afval wordt in Nederland over het algemeen verbrand, en eindigt dus als CO~2~. Terwijl veel dingen die worden weggegooid nog prima op één of andere manier opnieuw te gebruiken zijn. Probeer afgedankte spullen te verkopen of weg te geven, breng ze naar een tweedehands-winkel. Breng afgedankte elektronica naar een afvalpunt of lever het in bij een elektronicazaak. Het kost iets meer moeite en tijd, maar het bespaart indirect een hoop energie.
 
-   * Zorg dat de muren en de zolder (of het dak) van je huis goed geïsoleerd zijn. Plaats tochtstrips. Overweeg om je warmwater-installatie aan te passen en uit te rusten met een warmtepomp, een zonneboiler en een warmtebuffer. Overweeg om daarnaast zonnepanelen te plaatsen. Bij huurhuizen, informeer naar mogelijkheden voor isolatie en aanpassing bij je huisbaas. 
+   * Zorg dat de muren en de zolder (of het dak) van je huis goed geïsoleerd zijn. Plaats tochtstrips. Overweeg om je warmwater-installatie aan te passen en uit te rusten met een warmtepomp, een zonneboiler en een warmtebuffer. Overweeg om daarnaast zonnepanelen te plaatsen. Bij huurhuizen, informeer bij je huisbaas naar mogelijkheden voor isolatie en aanpassing. 
 
    * Pak vaker de fiets voor korte afstanden. Overweeg een elektrische fiets voor langere afstanden. Voor langere afstanden, neem liever de trein dan de auto of het vliegtuig. Als je tijdig boekt dan kan het zelfs goedkoper zijn om de trein te nemen naar landen als Duitsland, Frankrijk of Engeland. En de tijdswinst van vliegen is op dergelijke afstanden vaak niet erg groot. Ga liever langer op vakantie dan een aantal korte reizen te boeken, zeker bij intercontinentale vluchten.
 
@@ -90,7 +93,7 @@ Interesse in meer artikelen? Volg ons [op Facebook](https://www.facebook.com/duu
 
 
 [^peilingen]:
-*Tot een derde van de Nederlanders vindt niet dat klimaatverandering een ernstig probleem is.* \
+*Tot een derde van de Nederlanders vindt niet dat klimaatverandering een ernstig probleem is.*   
 Dit hangt er een beetje vanaf welke peiling je neemt.
 Volgens het [onderzoek van Nielsen in 2011](http://www.nielsen.com/content/dam/corporate/us/en/reports-downloads/2011-Reports/nieslen-sustainability-report.pdf) was 19% van de Nederlanders onbezorgd over klimaatverandering, had 33% geen mening en was 48% bezorgd. Volgens een [recente peiling van weeronline.nl](http://nieuws.weeronline.nl/nederlander-mens-beinvloedt-op-klimaatverandering/) gelooft 31% van de respondenten niet dat de mens bijdraagt aan klimaatverandering. 
 Een [onderzoek van de Europese Commissie in 2013](http://ec.europa.eu/clima/citizens/support/docs/report_2014_en.pdf) gaf aan dat 57% van de ondervraagde Nederlanders klimaatverandering in de top-3 van belangrijke problemen zou zetten.
@@ -99,47 +102,47 @@ In een [internetopiniepeiling van 21minuten.nl in 2009](http://www.algemene-ener
 
 
 [^ppmco2]:
-*In lucht zit relatief maar een héél klein beetje CO~2~, minder dan een duizendste deel. Van nature is dit zo'n 0.03% (volumeprocent), of ±300 ppm.* \
+*In lucht zit relatief maar een héél klein beetje CO~2~, minder dan een duizendste deel. Van nature is dit zo'n 0.03% (volumeprocent), of ±300 ppm.*   
 Er is uiteraard niet zoiets als een "natuurlijke" concentratie van CO~2~. Over de afgelopen honderden miljoenen jaren is de concentratie van CO~2~ in de atmosfeer, voor zo ver we weten, vrij variabel geweest. Gedurende ijstijden was deze rond de 180 ppm, in de tropische perioden van het Mesozoïcum (Trias, Jura en Krijt) was het rond de 2000 ppm, en in het Cambrium was het mogelijk zelfs rond de 7000 ppm. Maar gedurende de laatste interglacialen (de periodes tussen ijstijden) was de concentratie redelijk consequent tussen de 260 en 300 ppm (hoewel sommige studies hogere concentraties schatten, boven de 300 ppm). Metingen uit ijskernen suggereren dat de concentratie de afgelopen millennia bijzonder stabiel is geweest, rond de 280 ppm. Metingen op basis van stomata (huidmondjes van planten) suggereren een iets grotere variatie de afgelopen eeuwen, tussen de 260 en 320 ppm, en concentraties tot 400 ppm gedurende eerdere interglacialen. Aangezien de het belangrijkste deel van de menselijke geschiedenis plaatsvond in het laatste paar millennia, neem ik 300 ppm even als de "natuurlijke" uitgangssituatie, met daaromheen een variatie van zo'n 20-40 ppm.
 
 
 [^broeikas]:
-*Samen met waterdamp en enkele andere gassen is CO~2~ verantwoordelijk voor wat we het broeikaseffect noemen.* \
-Eigenlijk is dat een misleidende naam, want het mechanisme achter het broeikaseffect is anders dan bij een broeikas. Maar de uitwerking is hetzelfde: er wordt in beide gevallen warmte vastgehouden. \
+*Samen met waterdamp en enkele andere gassen is CO~2~ verantwoordelijk voor wat we het broeikaseffect noemen.*   
+Eigenlijk is dat een misleidende naam, want het mechanisme achter het broeikaseffect is anders dan bij een broeikas. Maar de uitwerking is hetzelfde: er wordt in beide gevallen warmte vastgehouden.   
 De aarde krijgt dagelijks een hoop energie van de zon, maar de helft hiervan wordt direct gereflecteerd, en de andere helft wordt vrij snel weer uitgestraald richting ruimte. Waterdamp, CO~2~ en enkele andere gassen absorberen echter een deel van deze uitgaande energie, en stralen het deels terug richting aarde. [Deze video van het TED-Ed project](http://ed.ted.com/lessons/how-quantum-mechanics-explains-global-warming-lieven-scheire) legt mooi uit hoe het broeikaseffect precies werkt.
 
 
 [^koolstofbalans]:
-*Uitstoot en opname van CO~2~ zijn van nature dus bijna in balans.* \
+*Uitstoot en opname van CO~2~ zijn van nature dus bijna in balans.*   
 Dit is op langere tijdschalen zeker niet altijd het geval, gedurende het Holoceen (circa de laatste 4000 eeuwen) schommelde de concentratie CO~2~ in de atmosfeer tussen 180 en 300 ppm (mogelijk tot 400 ppm). Maar gedurende het laatste interglaciaal lijkt de concentratie CO~2~ in de atmosfeer vrij stabiel te zijn geweest, en waren uitstoot en opname dus min of meer in balans. Bovendien zijn natuurlijke variaties in de CO~2~-concentratie relatief langzaam, zeker vergeleken met de huidige toename in CO~2~-concentratie.
 
 
 [^worldenergy]:
-*Ruim 80% van de energie die we als mensheid gebruiken, betrekken we uit het verbranden van dergelijke *fossiele brandstoffen*. In Nederland is dat zelfs 92%.* \
+*Ruim 80% van de energie die we als mensheid gebruiken, betrekken we uit het verbranden van dergelijke *fossiele brandstoffen*. In Nederland is dat zelfs 92%.*   
 Volgens de [2013 Key World Energy Statistics](http://www.iea.org/publications/freepublications/publication/key-world-energy-statistics-2013.html) van de International Energy Agency (IEA), heeft de wereld in 2011 ongeveer 13113 Mtoe (*million tonnes oil equivalent*) aan primaire energiebronnen gebruikt. Dat is ongeveer 152504 TWh (*terawatt-uur*) aan energie (1 TWh is een miljard kWh, of 3600 terajoules, en 1 Mtoe is 11.63 TWh). Dit komt neer op 21786 kWh per wereldburger in 2011, gemiddeld 60 kWh per persoon per dag. Van deze energie is 31.5% afkomstig uit olie, 28.8% uit kolen en turf, en 21.3% uit aardgas. Opgeteld was in 2011 dus 81.6% van de energie (124443 TWh) afkomstig uit fossiele brandstoffen. De overige energie werd vooral betrokken uit biomassa en afval (10%), kernsplitsing (5.1%), waterkracht (2.3%) en "overige bronnen" (1%). In deze laatste categorie vallen alternatieve energiebronnen zoals zonne-energie, windenergie, geothermische energie, etc. Op dit moment speelt duurzame energie wereldwijd dus nauwelijks een rol van betekenis. De voornaamste hernieuwbare energiebronnen zijn hout en andere soorten biomassa, afval en waterkracht. 
 Een deel van de fossiele brandstoffen wordt omgezet in elektriciteit, waarbij energie verloren gaat. In totaal was daardoor in 2011 ongeveer 8918 Mtoe (103716 TWh, ofwel 68% van de primaire energie) beschikbaar voor eindgebruikers in de vorm van olie (40.8%), elektriciteit (17.7%), gas (15.5%), biomassa en afval (12.5%), kolen en turf (10.1%) en overge bronnen (3.4%). Olie wordt voornamelijk (62.3%) gebruikt voor transport, en de laatste vier categorieën worden vooral gebruikt om warmte te produceren voor industrie en huishoudens.
-In totaal leidde het verbranden van niet-hernieuwbare energiebronnen in 2011 tot 31342 Mt (megaton) CO~2~-uitstoot (ongeveer 92% van de totale CO~2~-uitstoot, en 64% van de totale menselijke uitstoot van broeikasgassen). Hiervan is 44% afkomstig van kolen en turf, 35.3% van olie, 20.2% van aardgas en 0.5% van afval en overige bronnen. \
-Ongeveer 40% van de energie (5239 Mtoe in 2012) wordt gebruikt door de 34 rijke OECD-landen (Organisation for Economic Co-operation and Development), die grofweg 18% van de wereldbevolking vertegenwoordigen (1.26 miljard mensen in 2013). Het gemiddelde energiegebruik per OECD-burger is dus meer dan twee keer het wereldgemiddelde, ongeveer 48356 kWh per persoon in 2012, of 132 kWh per persoon per dag. \
+In totaal leidde het verbranden van niet-hernieuwbare energiebronnen in 2011 tot 31342 Mt (megaton) CO~2~-uitstoot (ongeveer 92% van de totale CO~2~-uitstoot, en 64% van de totale menselijke uitstoot van broeikasgassen). Hiervan is 44% afkomstig van kolen en turf, 35.3% van olie, 20.2% van aardgas en 0.5% van afval en overige bronnen.   
+Ongeveer 40% van de energie (5239 Mtoe in 2012) wordt gebruikt door de 34 rijke OECD-landen (Organisation for Economic Co-operation and Development), die grofweg 18% van de wereldbevolking vertegenwoordigen (1.26 miljard mensen in 2013). Het gemiddelde energiegebruik per OECD-burger is dus meer dan twee keer het wereldgemiddelde, ongeveer 48356 kWh per persoon in 2012, of 132 kWh per persoon per dag.   
 Het bruto-energieverbruik in Nederland in 2012 was 951 TWh (volgens [Eurostat](http://epp.eurostat.ec.europa.eu/portal/page/portal/energy/data/main_tables)). Hiervan is ongeveer 92% afkomstig uit fossiele brandstoffen: 41.4% uit aardolieproducten, 40.4% uit aardgas, 10% uit kolen, 4.3% uit hernieuwbare bronnen, 1.2% uit nucleaire energie en 0.9% uit afval.
 
 
 [^temperatuur]:
-*De gemiddelde temperatuur gaat meetbaar omhoog, daarover bestaat geen twijfel.* \
+*De gemiddelde temperatuur gaat meetbaar omhoog, daarover bestaat geen twijfel.*   
 Zelfs als je zou twijfelen of de temperatuursmetingen representatief zijn, dan is er voldoende indicatie dat de gemiddelde oppervlaktetemperatuur structureel omhoog gaat. De verspreiding van ijskappen, gletsjers en populaties planten en dieren zijn goede natuurlijke indicatoren van temperatuurstrends op de langere termijn. De omvang van vrijwel alle gletsjers is de afgelopen decennia sterk afgenomen, en hetzelfde geldt voor de ijskappen bij de Noord- en Zuidpool. En de populaties van veel planten en dieren in gematigde klimaten zijn opgeschoven richting de polen. Ook in berggebieden is de boomgrens de laatste decennia hoger geworden. 
 
 
 [^onzekerheid]:
-*Het klimaat is een complex systeem met veel feedbacks, dus wat gaat er op de langere termijn gebeuren? Er zijn een hoop voorspellingen en scenario's gemaakt, maar  feit is dat eigenlijk niemand precies weet wat er gaat gebeuren.* \
+*Het klimaat is een complex systeem met veel feedbacks, dus wat gaat er op de langere termijn gebeuren? Er zijn een hoop voorspellingen en scenario's gemaakt, maar  feit is dat eigenlijk niemand precies weet wat er gaat gebeuren.*   
 Mijns inziens draagt het ontkennen van deze onzekerheid niet bij aan de klimaatdiscussie. Toegegeven, veel klimaatontkenners buiten het bestaan van onzekerheid uit, om twijfel te zaaien. Als tegenreactie wordt veelal de nadruk gelegd op brede wetenschappelijke consensus. Dit kan echter contraproductief werken, omdat het een schijn van absolute zekerheid geeft. En dit is misleidend, absolute zekerheid bestaat uiteraard niet. Logicus Johan van Benthem zei hierover in een interview met de Volkskrant (dd. 27 september 2014): "Veel wetenschappers kiezen die lijn: we schreeuwen ze ten onder. We gaan heel hard roepen dat ze ongelijk hebben. En als we maar op ieder vonkje stampen, is het afgelopen. Terwijl de geschiedenis leert dat het gewoon niet zo werkt. Vaak presenteren wetenschappers hun kennis als iets vaststaands, iets waarover consensus bestaat. Zo van: we hebben met een aantal heel slimme mensen over alle voors en tegens nagedacht, en nu is er een consensus, daarmee kun je anderen om de oren slaan. Ik heb persoonlijk een ander idee over wetenschap. Ik vind wetenschap een vorm van georganiseerde discussie, en de kracht van wetenschap zit hem in de kwaliteit van die discussie. Het feit dat we meningsverschillen steeds bespreekbaar maken, daar halen we de vooruitgang uit. Het beeld dat de wetenschap volgens mij zou moeten uitstralen, is dat van discussie en debat. Ik geloof dat je er dan sterker uitkomt. Omdat je zo aangeeft: wij kennen het verschijnsel meningsverschillen. En als je die op onze manier en volgens onze normen bespreekbaar maakt, kom je verder." Bovendien, de consensus onder wetenschappers gaat over het *bestaan van het versterkte broeikaseffect*, niet over de schaal ervan, of over de effecten op termijn.
 
 
 [^experiment]:
-*We zijn in feite twee eeuwen geleden begonnen aan het grootste experiment uit de menselijke geschiedenis. Maar dit experiment is vrijwel onbeheersbaar, de afloop is onbekend, en er is geen panic-button voor als het misgaat.* \
+*We zijn in feite twee eeuwen geleden begonnen aan het grootste experiment uit de menselijke geschiedenis. Maar dit experiment is vrijwel onbeheersbaar, de afloop is onbekend, en er is geen panic-button voor als het misgaat.*   
 Een cynicus zou wellicht zeggen dat dit geldt voor de ontwikkeling van de mensheid in het algemeen. Dat maakt het niet echt minder zorgelijk. 
 
 
 [^phco2]:
-*Voor zo ver we weten is de gemiddelde pH van zeewater de afgelopen 24 miljoen jaar vrij constant gebleven, tussen de 8.1 en 8.3.* \
+*Voor zo ver we weten is de gemiddelde pH van zeewater de afgelopen 24 miljoen jaar vrij constant gebleven, tussen de 8.1 en 8.3.*   
 Op het eerste gezicht is dit eigenaardig, aangezien de CO~2~-concentratie in de atmosfeer over dezelfde periode vrij variabel was. Je zou wellicht verwachten dat de pH van de oceanen de atmosferische concentratie van CO~2~ zou volgen, maar dit lijkt niet het geval te zijn. Op zich zijn oceanen waarschijnlijk goed in staat om de concentratie CO~2~ en de pH van het water te bufferen, mits de verandering in concentratie niet te snel is. Momenteel lijkt de toename in CO~2~-concentratie echter veel sneller te zijn dan deze buffer-processen.
 
 <!--- Bron: http://switchboard.nrdc.org/blogs/lsuatoni/why_scientists_agree_ocean_aci.html 
@@ -147,7 +150,7 @@ Op het eerste gezicht is dit eigenaardig, aangezien de CO~2~-concentratie in de 
 
 
 [^pH]:
-*Verreweg het meeste oppervlaktewater is zeewater, en zeewater heeft een gemiddelde pH van iets boven de 8. Mensen die hebben opgelet bij scheikunde weten dat dit niet zuur is, maar licht basisch.* \
+*Verreweg het meeste oppervlaktewater is zeewater, en zeewater heeft een gemiddelde pH van iets boven de 8. Mensen die hebben opgelet bij scheikunde weten dat dit niet zuur is, maar licht basisch.*   
 Een pH van 7 is neutraal. Een pH beneden de 7 is zuur, en een pH erboven is basisch. Kleine variaties in pH kunnen grote gevolgen hebben voor de werking van biologische processen, zeker bij ééncelligen en kleine water-organismen.
 
 
@@ -155,18 +158,18 @@ Een pH van 7 is neutraal. Een pH beneden de 7 is zuur, en een pH erboven is basi
 
 
 [^fossielelanden]:
-*De controle over en winning van deze voorraden hebben de afgelopen eeuw direct of indirect geleid tot een groot aantal militaire conflicten, en veel menselijk lijden. Als gevolg hiervan hebben landen als Rusland, de VS en diverse oliestaten in het Midden Oosten wereldwijd meer invloed dan wellicht wenselijk is, en vloeit er veel geld naar corrupte regimes in Afrika en Latijns Amerika.* \
-Ik bedoel hiermee niet te suggereren dat je de VS of zelfs Rusland moet beschouwen als "schurkenstaten". Rusland gebruikt haar olie- en gasvoorraden om machtspolitiek te bedrijven, en geef de Russen eens ongelijk. En de Verenigde Staten hebben zich sinds de *Carter doctrine* bereid verklaard om koste wat kost haar oliebelangen veilig te stellen, met militair optreden waar nodig. Het is niet aannemelijk dat deze doctrine de politieke stabiliteit in het Midden Oosten veel goed heeft gedaan. Bovendien is het Amerikaanse leger zelf de organisatie die wereldwijd waarschijnlijk het meeste olie verbruikt. In 2001 gebruikte het leger waarschijnlijk al meer dan 85 miljoen vaten per jaar (deze schatting is afkomstig uit het boek [Ongeraffineerd](http://books.google.nl/books/about/Ongeraffineerd.html?id=vojyIQAACAAJ)). En auteur [Mike Berners-Lee](http://www.akpress.org/howbadarebananas.html) schatte in 2010 de uitstoot van de militaire operatie in Irak op 250-600 miljoen ton CO~2~-equivalent. Dat is ongeveer de uitstoot van alle Nederlanders gedurende twee jaar. \
+*De controle over en winning van deze voorraden hebben de afgelopen eeuw direct of indirect geleid tot een groot aantal militaire conflicten, en veel menselijk lijden. Als gevolg hiervan hebben landen als Rusland, de VS en diverse oliestaten in het Midden Oosten wereldwijd meer invloed dan wellicht wenselijk is, en vloeit er veel geld naar corrupte regimes in Afrika en Latijns Amerika.*   
+Ik bedoel hiermee niet te suggereren dat je de VS of zelfs Rusland moet beschouwen als "schurkenstaten". Rusland gebruikt haar olie- en gasvoorraden om machtspolitiek te bedrijven, en geef de Russen eens ongelijk. En de Verenigde Staten hebben zich sinds de *Carter doctrine* bereid verklaard om koste wat kost haar oliebelangen veilig te stellen, met militair optreden waar nodig. Het is niet aannemelijk dat deze doctrine de politieke stabiliteit in het Midden Oosten veel goed heeft gedaan. Bovendien is het Amerikaanse leger zelf de organisatie die wereldwijd waarschijnlijk het meeste olie verbruikt. In 2001 gebruikte het leger waarschijnlijk al meer dan 85 miljoen vaten per jaar (deze schatting is afkomstig uit het boek [Ongeraffineerd](http://books.google.nl/books/about/Ongeraffineerd.html?id=vojyIQAACAAJ)). En auteur [Mike Berners-Lee](http://www.akpress.org/howbadarebananas.html) schatte in 2010 de uitstoot van de militaire operatie in Irak op 250-600 miljoen ton CO~2~-equivalent. Dat is ongeveer de uitstoot van alle Nederlanders gedurende twee jaar.   
 Overigens kan de winning van fossiele brandstoffen uiteraard ook positieve effecten hebben, met name op de korte termijn. Nederland heeft (in ieder geval tot 1994) haar verzorgingsstaat min of meer gebouwd op de inkomsten van de aardgasverkoop. Op de langere termijn is dit echter niet noodzakelijkerwijs gunstig. Het voorbeeld van Nederland staat niet voor niets bekend als [*the Dutch disease*](http://nl.wikipedia.org/wiki/Hollandse_ziekte_%28economie%29). Momenteel krijgt de Nederlandse schatkist meer dan 10 miljard euro per jaar binnen uit de aardgasbaten. Maar nu het Gronings aardgas opraakt zullen deze [aardgasbaten op termijn afnemen](http://www.dnb.nl/binaries/OS65_tcm46-186972.pdf). En het is bepaald niet ondenkbaar dat de afnemende inkomsten voor de schatkist op termijn moeten worden gecompenseerd met verdere bezuinigingen op de verzorgingsstaat.
 
 
 [^GWP]:
-*Van deze uitstoot is ongeveer 88% CO~2~ (33-40 kg), de rest is voornamelijk methaan en N~2~O.* \
+*Van deze uitstoot is ongeveer 88% CO~2~ (33-40 kg), de rest is voornamelijk methaan en N~2~O.*   
 Methaan (CH~4~) heeft als broeikasgas minimaal 25 keer meer effect dan CO~2~. Het effect van N~2~O (distikstofoxide, beter bekend als lachgas) is zelfs bijna 300 keer groter dan dat van CO~2~. In beide gevallen gaat het om het potentiële opwarmingseffect (*global warming potential*) over een periode van een eeuw (GWP~100~). Beide gassen komen nauwelijks voor in de atmosfeer (van beiden is de concentratie minder dan 1 ppm), maar ze hebben wel een significant effect. [Methaan](http://www.eci.ox.ac.uk/research/energy/downloads/methaneuk/chapter02.pdf) is een relatief licht gas, dus het komt hoog in de atmosfeer terecht, waar het relatief lang blijft (gemiddeld ongeveer 10 jaar), en uiteindelijk reageert tot water en CO~2~. Beiden zijn ook weer broeikasgassen, en deze hebben bovendien een sterker effect op grotere hoogte. [Lachgas](http://www.unep.org/pdf/UNEPN2Oreport.pdf) heeft een veel langere levensduur dan andere broeikasgassen, het blijft gemiddeld meer dan een eeuw in de atmosfeer. Bovendien is het niet enkel een broeikasgas, maar het is tevens verantwoordelijk voor afbraak van de ozonlaag.
 
 
 [^kWh]:
-*Een Nederlander gebruikt, direct en indirect, gemiddeld ergens tussen de 100 en 250 kWh per dag.* \
+*Een Nederlander gebruikt, direct en indirect, gemiddeld ergens tussen de 100 en 250 kWh per dag.*   
 De kilowatt-uur (kWh, of eigenlijk kW·h) wordt vooral gebruikt om elektriciteitsverbruik uit te drukken. Een kilowatt-uur is de hoeveelheid energie die een apparaat van 1000 Watt gebruikt gedurende een uur. In SI-eenheden is dit 3.6 MJ (megajoule). Echter, in navolging van auteur [David MacKay](http://www.withouthotair.com) gebruik ik kWh als eenheid voor energieverbruik in het algemeen, omdat veel mensen al bekend zijn met deze eenheid (bijvoorbeeld van hun elektriciteitsrekening).
 
 
