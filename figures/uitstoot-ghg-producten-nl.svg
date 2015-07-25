@@ -13,11 +13,11 @@
    height="900"
    id="svg3273"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.4 r"
    sodipodi:docname="uitstoot-ghg-producten-nl.svg"
-   inkscape:export-filename="/home/levien/Dropbox/life/duurzaamheidsweb/uitstoot-ghg-producten-nl.png"
-   inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300">
+   inkscape:export-filename="/home/levien/src/web/duurzaamheidsweb/content/images/co2-voetafdruk-producten-nl.png"
+   inkscape:export-xdpi="75"
+   inkscape:export-ydpi="75">
   <defs
      id="defs3275" />
   <sodipodi:namedview
@@ -27,15 +27,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.61294118"
-     inkscape:cx="850"
-     inkscape:cy="500"
+     inkscape:zoom="0.85"
+     inkscape:cx="825"
+     inkscape:cy="450"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1309"
-     inkscape:window-height="744"
-     inkscape:window-x="57"
+     inkscape:window-width="1680"
+     inkscape:window-height="977"
+     inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      fit-margin-top="0"
@@ -88,8 +88,6 @@
          style="font-size:12px;text-align:end;text-anchor:end"
          id="flowPara5094">1 L bronwater</flowPara><flowPara
          style="font-size:12px;text-align:end;text-anchor:end"
-         id="flowPara5253">10 minuten douchen (met HR-ketel)</flowPara><flowPara
-         style="font-size:12px;text-align:end;text-anchor:end"
          id="flowPara5126">1 kg aardappels of wortelen</flowPara><flowPara
          style="font-size:12px;text-align:end;text-anchor:end"
          id="flowPara5203">1 doosje champignons</flowPara><flowPara
@@ -98,7 +96,9 @@
          style="font-size:12px;text-align:end;text-anchor:end"
          id="flowPara5315">1 kWh electriciteit</flowPara><flowPara
          style="font-size:12px;text-align:end;text-anchor:end"
-         id="flowPara3291">10 km reizen per trein</flowPara><flowPara
+         id="flowPara3291">10 minuten douchen (met HR-ketel)</flowPara><flowPara
+         style="font-size:12px;text-align:end;text-anchor:end"
+         id="flowPara3713">10 km reizen per stoptrein</flowPara><flowPara
          style="font-size:12px;text-align:end;text-anchor:end"
          id="flowPara5317">1 brood</flowPara><flowPara
          style="font-size:12px;text-align:end;text-anchor:end"
@@ -450,31 +450,8 @@
          style="fill:#000000;fill-opacity:1;stroke:none" />
     </g>
     <g
-       id="g9549"
-       transform="translate(-6.5259118,84.053191)">
-      <flowRoot
-         transform="translate(-1.7288952,250.57165)"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-         id="flowRoot4714-0-5-2-5-4-6-0"
-         xml:space="preserve"><flowRegion
-           id="flowRegion4716-4-8-2-6-9-8-0"><rect
-             y="27.892733"
-             x="419.88248"
-             height="75.532364"
-             width="84.828651"
-             id="rect4718-5-9-0-6-1-4-5" /></flowRegion><flowPara
-           style="font-size:10px"
-           id="flowPara4720-1-1-4-4-7-3-9">0.3 kg</flowPara></flowRoot>      <rect
-         y="283.68661"
-         x="398.9996"
-         height="4"
-         width="12"
-         id="rect4863-1-6-9-7-3-6-2"
-         style="fill:#000000;fill-opacity:1;stroke:none" />
-    </g>
-    <g
        id="g9556"
-       transform="translate(-6.5259118,83.210921)">
+       transform="translate(-6.5259118,68.1976)">
       <flowRoot
          transform="translate(0.39636065,266.42747)"
          style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
@@ -499,7 +476,7 @@
        id="g9580"
        transform="translate(-6.5259118,81.87331)">
       <flowRoot
-         transform="translate(6.2168263,312.80573)"
+         transform="translate(9.922717,312.80573)"
          style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
          id="flowRoot4714-3-4-4"
          xml:space="preserve"><flowRegion
@@ -510,12 +487,12 @@
              width="84.828651"
              id="rect4718-9-4-1" /></flowRegion><flowPara
            style="font-size:10px"
-           id="flowPara4720-3-6-8">0.5 kg</flowPara></flowRoot>      <g
+           id="flowPara4720-3-6-8">0.6 kg</flowPara></flowRoot>      <g
          id="g9577">
         <rect
            style="fill:#000000;fill-opacity:1;stroke:none"
            id="rect4863-1-6-4-6"
-           width="20"
+           width="23"
            height="4"
            x="398.9996"
            y="345.13968" />
@@ -2420,5 +2397,28 @@
    style="font-weight:normal"
    id="flowSpan12920">±</flowSpan>46 kg </flowSpan>CO<flowSpan
    style="font-size:65.00091553%;text-align:center;text-anchor:middle;baseline-shift:sub"
-   id="flowSpan12509">2</flowSpan>-eq. per dag</flowPara></flowRoot>  </g>
+   id="flowSpan12509">2</flowSpan>-eq. per dag</flowPara></flowRoot>    <g
+       id="g9563-6"
+       transform="translate(-6.5259163,68.94035)">
+      <flowRoot
+         transform="translate(6.2168263,280.69772)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         id="flowRoot4714-3-5-8"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4716-1-8-1"><rect
+             y="27.892733"
+             x="419.88248"
+             height="75.532364"
+             width="84.828651"
+             id="rect4718-9-1-5" /></flowRegion><flowPara
+           style="font-size:10px"
+           id="flowPara4720-3-7-6">0.5 kg</flowPara></flowRoot>      <rect
+         y="313.81268"
+         x="398.9996"
+         height="4"
+         width="20"
+         id="rect4863-1-6-4-1-5"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+    </g>
+  </g>
 </svg>

@@ -4,7 +4,7 @@ Date: 2014-09-16
 Modified: 2015-04-17
 Tags: CO2, klimaat, transport
 Slug: transport
-Status: hidden
+Status: draft
 
 [![De klimaat-voetafdruk van verkeer in Nederland]({filename}/images/co2-voetafdruk-verkeer-nl.png)]({filename}/images/co2-voetafdruk-verkeer-nl.png)
 

@@ -14,7 +14,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r"
-   sodipodi:docname="carbon-footprint-transport-nl.svg">
+   sodipodi:docname="carbon-footprint-transport-nl.svg"
+   inkscape:export-filename="/home/levien/src/web/duurzaamheidsweb/content/images/co2-voetafdruk-verkeer-nl.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150">
   <defs
      id="defs4">
     <marker
@@ -93,7 +96,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.6630435"
-     inkscape:cx="240"
+     inkscape:cx="152.20915"
      inkscape:cy="230"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -177,7 +180,7 @@
            style="font-size:8px;text-align:center;text-anchor:middle"
            id="flowPara4012">(in 2010)</flowPara><flowPara
            style="font-size:8px;text-align:center;text-anchor:middle"
-           id="flowPara4014"></flowPara><flowPara
+           id="flowPara4014" /><flowPara
            style="font-size:8px;text-align:center;text-anchor:middle"
            id="flowPara4016">±1.5 kg</flowPara></flowRoot>    </g>
     <rect
@@ -607,7 +610,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <rect
-       style="fill:none;stroke:#000000;stroke-width:0.99839896;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.99839895999999995;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;fill-opacity:1"
        id="rect5321"
        width="98.900192"
        height="4.1597285"
