@@ -118,7 +118,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -156,7 +156,7 @@
            style="font-size:8px;text-align:center;text-anchor:middle">5.4 kg</flowPara></flowRoot>    </g>
     <g
        id="g4054"
-       transform="translate(-2.300899,-157.3993)">
+       transform="matrix(1,0,0,1.1708982,-2.300899,-295.03367)">
       <rect
          y="805.54865"
          x="91.167274"
@@ -182,7 +182,7 @@
            style="font-size:8px;text-align:center;text-anchor:middle"
            id="flowPara4014" /><flowPara
            style="font-size:8px;text-align:center;text-anchor:middle"
-           id="flowPara4016">±1.5 kg</flowPara></flowRoot>    </g>
+           id="flowPara4016">±1.8 kg</flowPara></flowRoot>    </g>
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99655718;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect2985-31-3"

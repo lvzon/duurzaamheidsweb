@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -90,15 +90,15 @@
          style="font-size:12px;text-align:end;text-anchor:end"
          id="flowPara5126">1 kg aardappels of wortelen</flowPara><flowPara
          style="font-size:12px;text-align:end;text-anchor:end"
-         id="flowPara5203">1 doosje champignons</flowPara><flowPara
+         id="flowPara5203">10 km reizen per trein</flowPara><flowPara
+         style="font-size:12px;text-align:end;text-anchor:end"
+         id="flowPara3663">1 doosje champignons</flowPara><flowPara
          style="font-size:12px;text-align:end;text-anchor:end"
          id="flowPara4819">1 toiletrol (niet recycled)</flowPara><flowPara
          style="font-size:12px;text-align:end;text-anchor:end"
          id="flowPara5315">1 kWh electriciteit</flowPara><flowPara
          style="font-size:12px;text-align:end;text-anchor:end"
          id="flowPara3291">10 minuten douchen (met HR-ketel)</flowPara><flowPara
-         style="font-size:12px;text-align:end;text-anchor:end"
-         id="flowPara3713">10 km reizen per stoptrein</flowPara><flowPara
          style="font-size:12px;text-align:end;text-anchor:end"
          id="flowPara5317">1 brood</flowPara><flowPara
          style="font-size:12px;text-align:end;text-anchor:end"
@@ -474,7 +474,7 @@
     </g>
     <g
        id="g9580"
-       transform="translate(-6.5259118,81.87331)">
+       transform="translate(-6.5260563,97.672498)">
       <flowRoot
          transform="translate(9.922717,312.80573)"
          style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
@@ -500,27 +500,7 @@
     </g>
     <g
        id="g9588"
-       transform="translate(-6.5259118,81.427471)">
-      <flowRoot
-         transform="translate(13.564016,328.26515)"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-         id="flowRoot4714-3-4-3"
-         xml:space="preserve"><flowRegion
-           id="flowRegion4716-1-1-5"><rect
-             y="27.892733"
-             x="419.88248"
-             height="75.532364"
-             width="84.828651"
-             id="rect4718-9-4-4" /></flowRegion><flowPara
-           style="font-size:10px"
-           id="flowPara4720-3-6-0">0.7 kg</flowPara></flowRoot>      <rect
-         y="361.3801"
-         x="398.9996"
-         height="4"
-         width="26"
-         id="rect4863-1-6-4-2-1"
-         style="fill:#000000;fill-opacity:1;stroke:none" />
-    </g>
+       transform="translate(-6.5259118,81.427471)" />
     <g
        id="g9749"
        transform="translate(-6.5259118,83.64934)">
@@ -715,7 +695,7 @@
        id="g9665"
        transform="translate(-6.5259118,85.297948)">
       <flowRoot
-         transform="translate(57.857273,489.54372)"
+         transform="translate(61.338451,489.54372)"
          style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
          id="flowRoot4714-3-4-70"
          xml:space="preserve"><flowRegion
@@ -726,11 +706,11 @@
              width="84.828651"
              id="rect4718-9-4-5" /></flowRegion><flowPara
            style="font-size:10px"
-           id="flowPara4720-3-6-27">1.8 kg</flowPara></flowRoot>      <rect
+           id="flowPara4720-3-6-27">1.9 kg</flowPara></flowRoot>      <rect
          y="522.65869"
          x="398.9996"
          height="4"
-         width="72"
+         width="76"
          id="rect4863-1-6-9-1-1-0-9"
          style="fill:#000000;fill-opacity:1;stroke:none" />
     </g>
@@ -807,7 +787,7 @@
        id="g9693"
        transform="translate(-6.5259118,82.695848)">
       <flowRoot
-         transform="translate(94.683938,552.20002)"
+         transform="translate(77.813618,552.20002)"
          style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
          id="flowRoot4714-3-4-0-4-8"
          xml:space="preserve"><flowRegion
@@ -818,11 +798,11 @@
              width="84.828651"
              id="rect4718-9-4-80-6-7" /></flowRegion><flowPara
            style="font-size:10px"
-           id="flowPara4720-3-6-45-11-7">2.7 kg</flowPara></flowRoot>      <rect
+           id="flowPara4720-3-6-45-11-7">2.3 kg</flowPara></flowRoot>      <rect
          y="585.315"
          x="398.9996"
          height="4"
-         width="108"
+         width="92"
          id="rect4863-1-6-9-1-1-0-9-0-1-0"
          style="fill:#000000;fill-opacity:1;stroke:none" />
     </g>
@@ -2399,25 +2379,51 @@
    style="font-size:65.00091553%;text-align:center;text-anchor:middle;baseline-shift:sub"
    id="flowSpan12509">2</flowSpan>-eq. per dag</flowPara></flowRoot>    <g
        id="g9563-6"
-       transform="translate(-6.5259163,68.94035)">
+       transform="translate(-6.5259163,68.94035)" />
+    <g
+       id="g9570-8"
+       transform="translate(-6.5259163,99.761615)">
       <flowRoot
-         transform="translate(6.2168263,280.69772)"
+         transform="translate(6.2168263,294.89972)"
          style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-         id="flowRoot4714-3-5-8"
+         id="flowRoot4714-3-1"
          xml:space="preserve"><flowRegion
-           id="flowRegion4716-1-8-1"><rect
+           id="flowRegion4716-1-2"><rect
              y="27.892733"
              x="419.88248"
              height="75.532364"
              width="84.828651"
-             id="rect4718-9-1-5" /></flowRegion><flowPara
+             id="rect4718-9-2" /></flowRegion><flowPara
            style="font-size:10px"
-           id="flowPara4720-3-7-6">0.5 kg</flowPara></flowRoot>      <rect
-         y="313.81268"
+           id="flowPara4720-3-3">0.5 kg</flowPara></flowRoot>      <rect
+         y="328.01468"
          x="398.9996"
          height="4"
          width="20"
-         id="rect4863-1-6-4-1-5"
+         id="rect4863-1-6-4-5"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       id="g9556-5"
+       transform="translate(-6.5259163,83.193445)">
+      <flowRoot
+         transform="translate(0.39636065,266.42747)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         id="flowRoot4714-0-5-2-5-4-6-0-8-4"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4716-4-8-2-6-9-8-0-0-5"><rect
+             y="27.892733"
+             x="419.88248"
+             height="75.532364"
+             width="84.828651"
+             id="rect4718-5-9-0-6-1-4-5-3-1" /></flowRegion><flowPara
+           style="font-size:10px"
+           id="flowPara4720-1-1-4-4-7-3-9-6-1">0.4 kg</flowPara></flowRoot>      <rect
+         y="299.54242"
+         x="398.9996"
+         height="4"
+         width="14"
+         id="rect4863-1-6-9-7-3-6-2-8-6"
          style="fill:#000000;fill-opacity:1;stroke:none" />
     </g>
   </g>

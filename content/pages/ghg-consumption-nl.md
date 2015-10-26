@@ -4,7 +4,7 @@ Date: 2014-09-18
 Modified: 2015-07-25
 Tags: CO2, klimaat, consumptie
 Slug: ghg-consumption-nl
-Status: draft
+Status: hidden
 
 [![De klimaat-voetafdruk van een gemiddelde Nederlander rond 2001]({filename}/images/co2-voetafdruk-consumptie-nl.png)]({filename}/images/co2-voetafdruk-consumptie-nl.png)
 

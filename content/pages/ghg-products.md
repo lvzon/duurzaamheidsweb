@@ -4,7 +4,7 @@ Date: 2014-09-18
 Modified: 2015-07-24
 Tags: CO2, klimaat, consumptie
 Slug: ghg-products
-Status: draft
+Status: hidden
 
 [![Geschatte uitstoot voor enkele consumptiegoederen en activiteiten]({filename}/images/co2-voetafdruk-producten-nl.png)]({filename}/images/co2-voetafdruk-producten-nl.png)
 
@@ -29,6 +29,7 @@ Vlees etc: kip het minste, rundvlees het meeste, uitstoot kaas relatief hoog (ne
 Kleding in dezelfde orde van grootte als 250g rundvlees. Denk aan verbouwen van voer, etc.
 Vervoer: OV veel minder dan auto. De grootte van een auto maakt veel uit in de uitstoot, zowel productie als gebruik. Vliegen geeft hoge uitstoot: per km niet meer dan gemiddelde auto, maar afstanden zijn veel groter. 
 Apparatuur zoals computers: veel uitstoot, gerelateerd aan hoeveelheid materiaal (nog excl. gebruik!), een auto of een huis bevat veel meer materiaal dus heeft een veel hogere uitstoot. Veel focus op uitstoot door gebruik, maar uitstoot door productie is niet zelden net zo veel als enkele jaren gebruik.
+Ford Mondeo als voorbeeld: je moet bijna 74000 km rijden voordat je net zo veel hebt uitgestoten als dat vrijkomt bij productie. Dat is bijna twee keer de omtrek van de aarde (om precies te zijn, 1.8 keer de omtrek van 40075 km). Een gemiddelde Nederlander in 2012 reed 22.3 km per dag, en zou dus 9 jaar dagelijks moeten rijden.
 
 
 "De opbouw van het broeikaseffect voor het vleesvee uit Brazilië en Ierland wordt voornamelijk
@@ -72,16 +73,23 @@ De meeste mensen denken “als er maar een eco-certificaat op de verpakking staa
 *1000kg papier is ongeveer gelijk aan 280.000 meter toiletpapier, het gemiddeld verbruik van 54 huishoudens per jaar.
 CO2 neutraal geproduceerd papier bestaat in principe niet, want overal wordt energie gebruikt. Er is geen enkele fabriek die 100% op bio-energie werkt en zonder transport werkt, dus moet er gecompenseerd of afgekocht worden. Dit kan op verschillende manieren: je koopt CO2 emissie rechten op de internationale markt of je betaalt een groenfonds om bomen te planten of waterleidingen aan te leggen in ontwikkelingslanden.  Het kopen van rechten en het aanleggen van waterleidingen is geheel rechtmatig - dat hebben we internationaal afgesproken - maar het vermindert de CO2 emissie niet.
 
+
+https://decorrespondent.nl/3219/Factcheck-Kippen-in-de-wei-zijn-slecht-voor-het-milieu/354762771-4c00cfbf
  
 -----
 
 ### Bronnen:
 
-   - De geschatte emissies voor een plastic zak, een banaan, een sinaasappel, 1 L bronwater, 1 kg aardappels, 1 kg wortelen, 1 kg cement, een toiletrol, brood, 1 kg staal, een wegwerpluier, een spijkerbroek, een paar leren schoenen, een budget-laptop, een gaming-desktop, een Citroën C1 en een Ford Mondeo zijn afkomstig uit het boek [How Bad are Bananas? The Carbon Footprint of Everything](https://books.google.nl/books/about/How_Bad_Are_Bananas.html?id=iWVG2Y8nVVwC) van Mike Berners-Lee (2010). 
+   - De geschatte emissies voor een plastic zak, een banaan, een sinaasappel, een wegwerpluier, bronwater, wortelen, een toiletrol, 1 kg cement, 1 kg staal, een spijkerbroek, een paar leren schoenen, een budget-laptop, een gaming-desktop, een Citroën C1 en een Ford Mondeo zijn afkomstig uit het boek [How Bad are Bananas? The Carbon Footprint of Everything](https://books.google.nl/books/about/How_Bad_Are_Bananas.html?id=iWVG2Y8nVVwC) van Mike Berners-Lee (2010). 
+       - De emissie voor een plastic zak is gebaseerd op <http://lca.plasticseurope.org>.
+       - De getallen voor bananen en sinaasappels zijn afkomstig uit [Wallén, Brandt en Wennersten, 2004](http://dx.doi.org/10.1016/j.envsci.2004.08.004).
+       - Het getal voor een wegwerpluier is gebaseerd op het rapport [An updated lifecycle assessment study for disposable and reusable nappies](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/291130/scho0808boir-e-e.pdf).
 
-   - De geschatte emissies voor een glas melk (155 mL) en voor 250 g kip, varkensvlees, rundvlees (Nederlands en Iers), kaas en gamba's zijn afkomstig uit het rapport [Milieueffecten van Nederlandse consumptie van eiwitrijke producten - Gevolgen van vervanging van dierlijke eiwitten anno 2008](http://blonkconsultants.nl/publicaties/2008/consumptie-eiwitrijke-producten.html) van Blonk Milieuadvies (oktober 2008).
+   - De geschatte emissies voor een glas melk (155 mL), een brood (800 g) en gamba's (250 g) zijn afkomstig uit het rapport [Milieueffecten van Nederlandse consumptie van eiwitrijke producten - Gevolgen van vervanging van dierlijke eiwitten anno 2008](http://blonkconsultants.nl/publicaties/2008/consumptie-eiwitrijke-producten.html) van Blonk Milieuadvies (oktober 2008).
 
-   - De geschatte emissies voor een appel (uit Nederland en Nieuw-Zeeland), een banaan (uit Equador), een tomaat (NL incl. WKK), 250 g champignons (NL, handgeoogst, vers) en 250 g aarbeien (uit volle grond en broeikas) zijn gebaseerd op figuur 3.1 in het rapport [Berekening van broeikasgasemissies door de productie van tuinbouwproducten](http://blonkconsultants.nl/upload/Rapportage%20Broeikasgasemissie%20Tuinbouw%20eindrapportnamen%20%28RB,%20adjusted%20table%208.3%29.pdf) van Blonk Milieuadvies (mei 2009). De geschatte emissies voor een boeket Nederlandse rozen zijn gebaseerd op figuur 3.2 in hetzelfde rapport, uitgaande van 20 bloemen van elk 60 g. 
+   - De geschatte emissies voor 250 g kaas, kip, varkensvlees en rundvlees zijn afkomstig uit Annex A van het rapport [Life Cycle Impacts of Protein-rich Foods for Superwijzer](http://www.ce.nl/index.php?go=home.showPublicatie&id=1252), CE Delft (augustus 2011). De gebruikte schattingen gaan uit van reguliere Nederlandse veeteelt. Deze getallen wijken af van de schattingen van [Blonk Milieuadvies (2008)](http://blonkconsultants.nl/publicaties/2008/consumptie-eiwitrijke-producten.html), die neerkomen op 2.2 kg CO~2~-eq voor 250 g kaas, 0.7 kg voor 250 g kip, 1.1 kg voor varkensvlees en 4 kg voor rundvlees. De aanzienlijke verschillen in geschatte uitstoot voor vlees zijn het gevolg van verschillen in aannames en methodiek. De lifecycle-analyses van CE Delft schatten bijvoorbeeld de extra uitstoot die wordt veroorzaakt door landgebruik voor de teelt van soja voor veevoer, de analyse van Blonk doet dit niet. Voor beide keuzes zijn goede argumenten aan te dragen, de onzekerheden in landgebruik-schattingen zijn aanzienlijk. Echter, aangezien de methodologie van CE Delft uitgebreid beschreven wordt in het rapport, heb ik deze getallen gebruikt voor het figuur.
+
+   - De geschatte emissies voor een appel (uit Nederland en Nieuw-Zeeland), een banaan (uit Equador), een tomaat (NL kasbouw incl. WKK), 250 g champignons (NL, handgeoogst, vers) en 250 g aarbeien (uit volle grond en kasbouw) zijn gebaseerd op figuur 3.1 in het rapport [Berekening van broeikasgasemissies door de productie van tuinbouwproducten](http://blonkconsultants.nl/upload/Rapportage%20Broeikasgasemissie%20Tuinbouw%20eindrapportnamen%20%28RB,%20adjusted%20table%208.3%29.pdf) van Blonk Milieuadvies (mei 2009). De geschatte emissies voor een boeket Nederlandse rozen zijn gebaseerd op figuur 3.2 in hetzelfde rapport, uitgaande van 20 bloemen van elk 60 g. 
 
    - De geschatte emissies voor 10 km reizen in een stoptrein, bus, tram of gemiddelde auto, het verbranden van gas en benzine en 1000 km vliegen, zijn gebaseerd op de [Lijst CO~2~-emissiefactoren](http://co2emissiefactoren.nl/lijst-emissiefactoren/).
 
@@ -91,21 +99,13 @@ CO2 neutraal geproduceerd papier bestaat in principe niet, want overal wordt ene
 
    - De geschatte emissie van 1 kg papier is gebaseerd op [emissiefactoren van de Climate Neutral Group](http://climateneutralgroup.com/wp-content/uploads/2014/09/Review_Emissiefactoren_2015.pdf). De emissies voor glossy drukwerk zijn iets hoger, en voor boeken ongeveer het dubbele.
 
-   - De geschatte emissies voor 10 km rijden in een Citroën C1, een Ford Mondeo en een Land R	over Discovery zijn gebaseerd op getallen uit de [Autoweek Verbruiksmonitor](http://www.autoweek.nl/verbruiksmonitor). Het gemiddeld verbruik van een C1 is 0.534 L benzine per 10 km (ofwel 19 km/L), van de Mondeo 0.839 L benzine per 10 km (ofwel 12 km/L), en van een Discovery 1.1 L diesel per 10 km (ofwel 9 km/L diesel). Ik ben uitgegaan van een uitstoot van 2.8 CO~2~-eq per L benzine, en 3.2 CO~2~-eq per L diesel. 
+   - De geschatte emissies voor 10 km rijden in een Citroën C1, een Ford Mondeo en een Land Rover Discovery zijn gebaseerd op getallen uit de [Autoweek Verbruiksmonitor](http://www.autoweek.nl/verbruiksmonitor). Het gemiddeld verbruik van een C1 is 0.534 L benzine per 10 km (ofwel 19 km/L), van de Mondeo 0.839 L benzine per 10 km (ofwel 12 km/L), en van een Discovery 1.1 L diesel per 10 km (ofwel 9 km/L diesel). Ik ben uitgegaan van een uitstoot van 2.8 kg CO~2~-eq per L benzine, en 3.2 kg CO~2~-eq per L diesel. 
 
 
 
    - De geschatte emissies voor 1 L water koken: afhankelijk van begintemperatuur en methode van verwarmen. Opwarmen 1L water van 10-20 graden naar 100 graden kost ca. 0.1 kWh energie. Elektrisch koken verbruikt iets meer, door warmteverlies en doorkoken (ca. 0.16 kWh?). Bij gas hangt het af van het warmteverlies (met/zonder deksel, grootte van de pan/ketel). Schatting van 0.06 is realistisch voor elektrisch, wsl. iets aan de hoge kant voor gas mits goede ketel of deksel gebruikt.
 
-   - 10 min. douchen: hangt af van douchekop, watertemperatuur en type gijser of ketel. Gemeten gemiddeld gasverbruik bij mijn douche is ca. 0.03 m3/min, wat neerkomt op ca. 0.057 kg CO~2~-eq per minuut.
+   - De broeikas-uitstoot van 10 minuten douchen hangt uiteraard af van factoren als de douchekop, de watertemperatuur, hoe het water verwarmd wordt en wat het rendement van een eventuele geiser of ketel is. De schatting van 0.57 kg CO~2~-eq per 10 minuten is gebaseerd op mijn douche, met een ouderwetse douchekop, en een Intergas Kombi Kompakt HR 22 warmwater-ketel (die een rendement zou moeten hebben van ca. 85%). De ketel warmt het water op tot 60°C, en bij het douchen wordt ongeveer 3 L heet water per minuut gebruikt, bijgemengd met koud water tot een comfortabele temperatuur. Het gemeten gemiddeld gasverbruik bij mijn douche is ca. 0.03 m^3^/min, wat neerkomt op ca. 0.057 kg CO~2~-eq per minuut.
 
-
-Wijzigen:
-Trein -> 0.04 per km, dus 0.4 voor 10 km
-1 m3 gas -> 1.9
-10 km in Ford Mondeo -> 2.3 kg
-
-Meten waterkoker?
-Getallen van Lijst Emissiefactoren ook gebruiken voor figuur vervoer!
 
 
