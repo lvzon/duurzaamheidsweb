@@ -1,6 +1,6 @@
 Title: De toekomst van ons eten?
 Authors: Levien van Zon
-Date: 2015-10-26
+Date: 2015-10-27
 Tags: voedsel
 Slug: future-of-food
 Status: draft
@@ -24,13 +24,13 @@ Ik denk dat het toekomstbeeld zoals hierboven geschetst redelijk accuraat is, ma
 
 Een geheel ander soort productiesysteem wordt vertegenwoordigd door de biologisch-dynamische boer Nir Halfon en de Spaanse bioloog Miguel Medialdea: Kleinschalige, relatief extensieve productie in gemengde bedrijven, in evenwicht met de natuurlijke omgeving eromheen. In het Spaanse natuurgebied [Veta la Palma](http://www.vetalapalma.es/index.asp?LG=2) wordt vis gekweekt, rijst verbouwd, en grazen runderen en paarden. En de [Plaw Hatch Farm](http://www.plawhatchfarm.co.uk/) waar Nir Halfon werkt, levert groenten, fruit en zuivelproducten via hun eigen boerenwinkel, direct aan de consument. Docent [Stephen Ritz](http://stephenritz.com/) uit New York neemt een middenpositie in. Hij ziet toekomst in stedelijke voedselproductie, maar meer in een sociaal-maatschappelijke context: Het verbouwen van groenten in achterstandsbuurten, door mensen die anders weinig vooruitzicht hebben op werk en gezond voedsel. 
 
-Samengenomen schetst de film een beeld van relatief intensieve voedselproductie in de steden, en extensieve voedselproductie op het platteland en in natuurlijke gebieden. Ik geef toe, dit is een mooi beeld: stedelingen die weer met gezond voedsel bezig zijn, zonder bestrijdingsmiddelen of vervuiling, en boeren die voedsel verbouwen in balans met de omgeving. Helaas is het niet echt een antwoord op de problemen rondom voedselproductie.
+Samengenomen schetst de film een beeld van relatief intensieve voedselproductie in de steden, en extensieve voedselproductie op het platteland en in natuurlijke gebieden. Ik geef toe, dit is een mooi beeld: stedelingen die weer met gezond voedsel bezig zijn, zonder bestrijdingsmiddelen of vervuiling, en boeren die voedsel verbouwen in balans met de omgeving. Helaas is het niet echt een reëel antwoord op de problemen rondom voedselproductie.
 
 Allereerst lijkt het beeld van voedselproductie dat hier geschetst wordt, vooral te draaien om kleinschalige productie van groente, fruit, zuivel, vis en vlees. Dit is een heel ander beeld dan de discussie over voedselzekerheid, zoals die wordt gevoerd bij instanties als de FAO (de Food and Agriculture Organisation van de Verenigde Naties). Bij de FAO gaat de aandacht vooral uit naar calorieën en "staple foods". De nadruk ligt vrijwel geheel op gewassen als rijst, tarwe en mais, omdat deze het overgrote deel van de energie leveren in ons voedsel (wereldwijd zo'n 35%, maar in veel ontwikkelingslanden meer dan 50%). Dit is uiteraard belangrijk, maar heeft een nadeel: teveel aandacht voor "staple foods" gaat ten koste van de variatie in ons voedsel. Mensen kunnen niet enkel leven van calorieën. We hebben ook "micronutriënten" nodig, vitaminen en mineralen die vooral te vinden zijn in groenten, fruit en dierlijke producten (of goede vleesvervangers zoals noten). Deze micronutriënten zou je op zich prima kunnen halen uit kleinschalige productie van groenten en fruit en dierlijke eiwitten, in steden of daarbuiten. Maar daarmee voed je nog niet de wereldbevolking. Het overgrote deel van ons voedsel blijft bestaan uit granen, wereldwijd zo'n 2534 miljoen ton in 2015 (gemiddeld ongeveer een kilo per wereldburger per dag).[^foodnutrition] En hoe deze enorme hoeveelheid granen geproduceerd dient te worden komt eigenlijk niet aan bod in The Future of Food. Het is onwaarschijnlijk dat we dat zullen redden met kleinschalige productie in gemengde bedrijven en steden. 
 
 
 Het tweede probleem is het feit dat energiegebruik compleet genegeerd lijkt te worden. Bart Kuppens van Unilever Benelux stelt dat de wereld hoe dan ook een probleem gaat krijgen met water en met voedsel, dat regionale tekorten zullen leiden tot toenemende spanningsvelden. Dat is waarschijnlijk het geval, maar de wereld staat voor een minstens zo grote uitdaging op het gebied van energievoorziening. Mondiaal neemt ons energieverbruik nog altijd toe, zowel totaal (gemiddeld ca. 2% per jaar) als per persoon (gemiddeld rond 1% per jaar). Een land als China opent iedere 1 á 2 weken een nieuwe kolencentrale. De gemiddelde wereldburger gebruikt momenteel rond de 60 kWh primaire energie per dag, en in Westerse landen als Nederland is dat makkelijk drie keer zo veel.[^energiegebruik]
-Tegelijkertijd is te verwachten dat de kosten voor onze energievoorziening de komende decennia flink toe zullen nemen. Toegegeven, de prijzen van olie en gas zijn wegens overproductie en de economische crisis momenteel lager dan vóór 2008. Maar dit is vermoedelijk slechts een tijdelijk effect, en het heeft nauwelijks invloed gehad op de almaar stijgende prijzen van elektriciteit.[^energiekosten]
+Tegelijkertijd is te verwachten dat de kosten voor onze energievoorziening de komende decennia flink toe zullen nemen.[^energiekosten]
 Het is niet zo dat fossiele brandstoffen snel op zullen zijn, maar ze zullen ook zeker niet toenemen, en het wordt steeds duurder om ze uit de grond te halen. Hernieuwbare energie wordt langzaam goedkoper, maar grootschalige toepassing van bronnen als zon en wind staat nog voor enorme technische en sociale uitdagingen.
 
 Zelfs als we het voor elkaar zouden krijgen om vrijwel al ons energieverbruik te betrekken uit zon en wind, dan is het onwaarschijnlijk dat steden zelfvoorzienend kunnen zijn in hun energieverbruik. Het directe energiegebruik van een stedelijke bebouwde omgeving is rond de 10-20 W/m². Afhankelijk van locatie en seizoen ontvangen de meeste steden gemiddeld ergens tussen de 20 en 300 W/m² aan zonlicht, maar hiervan kan slechts een klein deel gebruikt worden. Een installatie met zonnepanelen in Duitsland levert gemiddeld rond de 5 W/m² aan elektriciteit. Dit zou nét voldoende kunnen zijn voor een modern energiezuinig kantoorgebouw met één verdieping. Maar het energieverbruik van een ouder hoogbouw-kantoorcomplex kan oplopen tot meer dan 6000 W/m². Dat zou betekenen dat er meer dan 1000 m² PV-zonnepanelen nodig kunnen zijn om te voorzien in het verbruik van een vierkante meter kantoorgebouw. En dat is exclusief de energie die nodig is om het gebouw neer te zetten en om onze consumptieartikelen te produceren, waaronder het voedsel dat we eten.[^urbanenergy]
@@ -39,9 +39,9 @@ Het verbouwen van voedsel is na de tweede wereldoorlog flink efficiënter geword
 
 Het verbouwen van hydrocultuur-gewassen in broeikassen of onder LED-verlichting is in zekere zin efficiënter dan akkerbouw, in ieder geval wat betreft oppervlakte, watergebruik en groeisnelheid. Ook is recycling van afvalstoffen makkelijker, worden er vaak minder pesticiden gebruikt en gaat er minder van opbrengst verloren. De keerzijde van *Controlled Environment Agriculture* is echter dat het duurder is, en dat het energieverbruik doorgaans een stuk hoger is dan bij akkerbouw. Dit komt vooral door het gebruik van lampen, verwarming en ventilatie. Het indrukwekkende [Master-onderzoek van de Delftse student Luuk Graamans](http://repository.tudelft.nl/assets/uuid:f9dd86ce-22a9-4dfe-b66e-ef55230e3856/Luuk_Graamans_1502662_VERTICAL_MSc_graduation_thesis.pdf) laat zien dat zelfs bij inzet van de nieuwste energiezuinige technieken, het energieverbruik ongeveer 220 W bedraagt per m² productieoppervlak, of 40 kWh per kg product. Het totale primaire energiegebruik ligt zelfs nog een stuk hoger, want voor het produceren van 1 kWh elektriciteit is ongeveer 3 kWh fossiele brandstoffen nodig. Bovendien is het produceren van kunstmest en andere grondstoffen hier nog niet meegerekend. Zelfs als we dit indirecte energieverbruik niet meerekenen, en de hele installatie zou draaien op zonne-energie, dan zou er ongeveer 44 m² aan PV-zonnepanelen nodig zijn per m² productieoppervlak (in Noord-Europa). In werkelijkheid is dit nog meer, als we willen dat de productie ook op peil blijft in de winter. Dat is allerminst een efficiënt gebruik van zonlicht en ruimte.
 
-Bij kasbouw is minder energie nodig voor verlichting, omdat de zon hier direct een bijdrage levert. Helaas ligt het energieverbruik voor verwarming doorgaans vrij hoog, met name in de winter, omdat de meeste kassen niet bijzonder goed zijn in het binnenhouden van warmte. Een [onderzoek van Cornell uit 2009](http://www.cornellcea.com/attachments/Energy%20Scoping%20Study%20Final%20Report.pdf) vergeleek hoeveel energie nodig is voor het verbouwen van sla, op het land en in een hydrocultuur-kas in New York. Voor ijsbergsla en baby-spinazie van het land, geïmporteerd over een gemiddelde afstand van ruim 4500 km, was het primaire energieverbruik respectievelijk rond 4.5 en 6 kWh per kg geconsumeerd product (met transport en verliezen meegerekend). Bij lokale kasbouw kon dit oplopen tot 27 en 50 kWh/kg, een factor 6 tot 9 hoger.[^ceaenergy] 
+Bij glastuinbouw is minder energie nodig voor verlichting, omdat de zon hier direct een bijdrage levert. Helaas ligt het energieverbruik voor verwarming doorgaans vrij hoog, met name in de winter, omdat de meeste kassen niet bijzonder goed zijn in het binnenhouden van warmte. Een [onderzoek van Cornell uit 2009](http://www.cornellcea.com/attachments/Energy%20Scoping%20Study%20Final%20Report.pdf) vergeleek hoeveel energie nodig is voor het verbouwen van sla, op het land en in een hydrocultuur-kas in New York. Voor ijsbergsla en baby-spinazie van het land, geïmporteerd over een gemiddelde afstand van ruim 4500 km, was het primaire energieverbruik respectievelijk rond 4.5 en 6 kWh per kg geconsumeerd product (met transport en verliezen meegerekend). Bij lokale kasbouw kon dit oplopen tot 27 en 50 kWh/kg, een factor 6 tot 9 hoger.[^ceaenergy] 
 
-Op zich is het verbouwen van gewassen met hydrocultuur en LED-licht een nuttige oplossing voor bepaalde soorten gewassen. Kwetsbare, slecht houdbare planten uit een warm klimaat moeten anders over lange afstanden getransporteerd worden, met koeling en aanzienlijke verliezen. Het is ook niet voor niets dat Growing Underground in London vooral [diverse soorten sla en kruiden](http://growing-underground.com/our-produce/) produceert. Een voordeel is hierbij dat een bunker 30 meter onder London waarschijnlijk weinig energie benodigt voor verwarming. Maar slablaadjes en Thaise Basilicum blijven luxeproducten, en goedkoop zal het niet zijn. We hebben het hier over een stad waar een woninghuur van 60-90 euro per vierkante meter niet ongebruikelijk is, en waar huurprijzen voor kantoorruimte in het centrum al gauw oplopen tot 1500 euro per m².[^londonrent] De vraag is of het verbouwen van voedsel hier echt een reële optie is. Het wereldvoedselprobleem zul je er in ieder geval niet mee oplossen. Daarvoor is het verstandiger om basisgewassen gewoon buiten te verbouwen. Een [studie uit 2009](http://www.aup.edu.pk/sj_pdf/ENERGY%20AND%20ECONOMIC%20EFFICIENCY%20ANALYSIS%20OF%20RICE.PDF) schatte een energieverbruik van ongeveer 1.5 kWh/kg voor het verbouwen van rijst in China. Dat is bijna 27 keer minder dan voor het verbouwen van sla in een leegstaand kantoorgebouw.
+Op zich is het verbouwen van gewassen met hydrocultuur en LED-licht een nuttige oplossing voor bepaalde soorten gewassen. Kwetsbare, slecht houdbare planten uit een warm klimaat moeten anders over lange afstanden getransporteerd worden, met koeling en aanzienlijke verliezen. Het is ook niet voor niets dat Growing Underground in London vooral [diverse soorten sla en kruiden](http://growing-underground.com/our-produce/) produceert. Een voordeel is hierbij dat een bunker 30 meter onder London waarschijnlijk weinig energie benodigt voor verwarming. Maar slablaadjes en Thaise Basilicum blijven luxeproducten, en goedkoop zal het niet zijn. We hebben het hier over een stad waar een woninghuur van 60-90 euro per vierkante meter niet ongebruikelijk is, en waar huurprijzen voor kantoorruimte in het centrum al gauw oplopen tot 125 euro per m² per maand.[^londonrent] De vraag is of het verbouwen van voedsel hier echt een reële optie is. Het wereldvoedselprobleem zul je er in ieder geval niet mee oplossen. Daarvoor is het verstandiger om basisgewassen gewoon buiten te verbouwen. Een [studie uit 2009](http://www.aup.edu.pk/sj_pdf/ENERGY%20AND%20ECONOMIC%20EFFICIENCY%20ANALYSIS%20OF%20RICE.PDF) schatte een energieverbruik van ongeveer 1.5 kWh/kg voor het verbouwen van rijst in China. Dat is bijna 27 keer minder dan voor het verbouwen van sla in een leegstaand kantoorgebouw.
 
 Op dit moment woont iets meer dan de helft van de wereldbevolking in stedelijke gebieden, en de voorspelling is dat dit tegen de 80% zal zijn rond 2050. Ik denk echter dat hier de verkeerde conclusies aan verbonden worden. Als het grootste deel van de mensheid in steden woont, moeten we dan onze voedselproductie ook verplaatsen naar de stad? Ik denk niet dat dat mogelijk is, althans niet op significante schaal. Het succes van de intensieve landbouw vanaf de jaren '60 is deels verantwoordelijk voor de snelle verstedelijking. Voedsel is zo goedkoop geworden dat we ons een hoop transport en verspilling kunnen veroorloven. Bovendien brengt een boerenbestaan tegenwoordig weinig geld op, tenzij je het heel grootschalig aanpakt. In agrarische gebieden is weinig werk, dus trekken veel mensen naar de stad. De stedelingen zijn echter ook de eersten die het zullen merken als er problemen zijn met de voedselproductie. De prijs van voedsel is nu op haar laagste punt in ruim zes jaar. Maar als de prijzen van voedsel weer sterk zouden stijgen, dan is het niet ondenkbaar dat de trend van verstedelijking stopt, en dat veel mensen wellicht weer terug trekken naar het platteland.
 
@@ -62,148 +62,39 @@ Interesse in meer artikelen? Volg ons [op Facebook](https://www.facebook.com/duu
 
 [^foodnutrition]:
 *Bij de FAO gaat de aandacht vooral uit naar calorieën en "staple foods". De nadruk ligt vrijwel geheel op gewassen als rijst, tarwe en mais, omdat deze het overgrote deel van de energie leveren in ons voedsel (wereldwijd zo'n 35%, maar in veel ontwikkelingslanden meer dan 50%). [...] Het overgrote deel van ons voedsel blijft bestaan uit granen, wereldwijd zo'n 2534 miljoen ton in 2015 (gemiddeld ongeveer een kilo per wereldburger per dag).*   
-Een schatting van de graanproductie wordt gegeven in de [FAO Food Outlook](http://www.fao.org/GIEWS/english/fo). Allerlei aanvullende statistieken voeding en voedselproductie zijn te vinden in het FAO-zakboekje [Food and Nutrition in Numbers 2014](http://www.fao.org/publications/card/en/c/9f31999d-be2d-4f20-a645-a849dd84a03e) en in de database [FAOstat](http://faostat3.fao.org/browse/Q/*/E). Hierin vinden we onder meer dat... 
-
-	- Hoogste populatiegroei in Midden Oosten en Afrika? >50% van bevolking leeft daar in rurale gebieden
-	- Hoogste voedselprijzen (tov. inkomen) in Afrika, meeste ondervoeding in Azie (absoluut) en Afrika (percentueel)
-	- Most of the food consumed worldwide is grown locally.  
-	- In 1961 the average global calorie availability was as low as 2 193 kcal/cap/day; by 2011, it had reached 2 868 kcal/cap/day, and was centered more around a narrow base of staple grains as well as meat and dairy products.
-	- Wereldwijd % van DES (dietary energy supply) in 2009-11: dierlijke producten ±30%, granen ±40%, knollen/wortels <10%, suiker <10%.
-	- Laagste DES in Afrikaanse landen + enkele Latijns-Amerikaanse en Aziatische landen (vooral conflict- en rampgebieden en Noord-Korea)
-	- Granen leveren wereldwijd ca 1000-1500 kcal/pers/dag, knollen en wortels < 150 (maar >300 in veel afrikaanse landen en in Peru). Suiker ca. 200 wereldwijd, maar ±400 in westerse landen. Groenten ca. 200, maar in sommige landen <50 (vooral Afrika). Vlees wereldwijd iets meer dan 200, maar in westerse landen >350 (in een aantal landen 400-500, maar in veel ontwikkelingslanden minder dan 60, en in India en Bangladesh minder dan 20). In NL draagt melk meer dan 450 bij. 
-	- Watergebruik pp is het hoogste in Turkmenistan, Irak, Uzbekistan, en in veel landen wordt >90% van water gebruikt voor landbouw.
-	- ca. 40 Mha is biologische landbouw (2011). Samoa is het enige land met overwegend biologische landbouw, Australie en Argentinie hebben het grootste oppervlak, gevolgd door de VS en China.
-	- ca 11% van wereldbevolking is ondervoed (805 miljoen mensen).
-	- wereld p 55: 3362.5M van 7 243.7M ruraal, gemiddeld 2 881 kcal/pers/dag, 35% granen, 17% suiker, 17% vlees, 3% fruit, 1.5% groente, 10% alcoholische dranken
-	- in ontwikkelingslanden: 3092.2M van 5978.5M ruraal, 2 769, 36%, 18%, 18%, etc. 9% olie en vet, 8% melk
-	- Afrika: 51% granen, 14% wortels en knollen, 4% fruit, 4% vlees, 3% melk
-	- Azie: 53% granen, 4% groenten, 8% vlees, 3% melk
-	- in ontwikkelde landen: 270.2M van 1265.2M ruraal, 3 399, 28%, 12%, 11%, 3%, 2%, 5%, en 19% olie en vet, 9% melk
-	- NL (p.172): 2.6M van 16.8M ruraal, 3 169 kcal/cap/day, 20% granen, 14% suiker, 12% vlees, 15% olie en vet, 15% melk, 5% wortels en knollen, 3% groenten, 5% fruit, 5% alcohol
-	
-	- http://www.fao.org/worldfoodsituation/csdb/en/
-	- http://faostat.fao.org/site/339/default.aspx (Top-8 in 2012: suikerriet (1842266 Gt), mais (872792 Gt), rijst (738188 Gt), tarwe (671497 Gt), melk (625754 Gt), aardappels (365365 Gt), verse groente (269852 Gt), suikerbiet (269825 Gt))
+Een schatting van de graanproductie wordt gegeven in de [FAO Food Outlook](http://www.fao.org/GIEWS/english/fo). Allerlei aanvullende statistieken voeding en voedselproductie zijn te vinden in het FAO-zakboekje [Food and Nutrition in Numbers 2014](http://www.fao.org/publications/card/en/c/9f31999d-be2d-4f20-a645-a849dd84a03e) en in de database [FAOstat](http://faostat3.fao.org/browse/Q/*/E). Hierin vinden we onder meer dat de calorie-inname van de gemiddelde wereldburger ongeveer 2868 kcal per dag is, waarvan 35% wordt geleverd door granen, 1.5% door groenten, 3% door fruit, 17% door suiker, eveneens 17% door vlees en 10% door alcohol(!). Er zijn echter grote verschillen tussen regio's. In Afrika wordt bijvoorbeeld gemiddeld 51% van de 2558 dagelijkse calorieën geleverd door granen, 14% door wortels en knollen, en slechts 4% door vlees. En in Nederland krijgen we gemiddeld 3169 kcal/dag binnen, waarvan 20% uit granen, 3% uit groenten, 5% uit fruit, 14% uit suiker, 12% uit vlees, 5% uit wortels en knollen, 15% uit olie en vet, 15% uit melk, en "slechts" 5% uit alcohol. Wereldwijd zijn zo'n 805 miljoen mensen chronisch ondervoed, ongeveer 11% van de wereldbevolking. Dit houdt in dat ze structureel onvoldoende energie binnenkrijgen om een actief en gezond leven te kunnen leiden. Het grootste absolute aantal hiervan (526 miljoen) woont in Azië, maar als percentage van de bevolking (21%) vinden we de meeste ondervoeding in Afrika (227 miljoen mensen), waar de voedselprijzen ook het hoogst zijn ten opzichte van de inkomens. Verder vinden we relatief veel ondervoeding in ramp- en conflictgebieden, en in Noord-Korea. Afgezien van ondervoeding hebben wereldwijd [meer dan 2 miljard mensen een tekort aan micronutriënten](http://www.publichealthreviews.eu/show/f/28) als gevolg van slechte voeding, en heeft 30% van de mensheid last van overgewicht. Beide problemen komen voor in zowel ontwikkelingslanden als "ontwikkelde" landen.  
+In 2014 woonden zo'n 3.4 miljard van de 7.2 miljard mensen (46%) op het platteland. In ontwikkelingslanden is dat 3.1 miljard van de 6 miljard mensen, dus iets meer dan de helft. In "ontwikkelde" landen woont nog slechts 21% van de mensen buiten de stedelijke gebieden. Hier zitten we dus al bijna aan de 80% verstedelijking.
 
 
 [^energiegebruik]:
 *Mondiaal neemt ons energieverbruik nog altijd toe, zowel totaal (gemiddeld ca. 2% per jaar) als per persoon (gemiddeld rond 1% per jaar). Een land als China opent iedere 1 á 2 weken een nieuwe kolencentrale. De gemiddelde wereldburger gebruikt momenteel rond de 60 kWh primaire energie per dag, en in Westerse landen als Nederland is dat makkelijk drie keer zo veel.*   
-
-	- "Een land als China opent iedere 1 á 2 weken een nieuwe kolencentrale."
-		- http://www.factcheck.org/2014/11/checking-inhofes-energy-statistics-on-china/
-		- http://instituteforenergyresearch.org/analysis/as-u-s-shutters-coal-plants-china-and-japan-are-building-them/ (IER is anti-energiebeled en pro-vrije-markt)
-		- http://www.businessspectator.com.au/article/2015/8/12/energy-markets/how-china-adding-one-idle-coal-plant-every-week (Greenpeace is het tegenovergestelde)
-		- http://energydesk.greenpeace.org/2015/02/23/comment-new-coal-power-plants-china-carbon-bubble-waiting-burst/
-	- Groei energieverbruik varieert tussen ca. -1% en +6% per jaar:
-		- http://www.eia.gov/cfapps/ipdbproject/IEDIndex3.cfm?tid=44&pid=44&aid=2
-		- https://yearbook.enerdata.net/
-		- http://www.indexmundi.com/energy.aspx?product=total-primary-energy&graph=consumption-growth-rate
-		- totaal iets meer dan 2% per jaar sinds 2000
-		- per persoon gemiddeld +1.3% per jaar, tussen 2000 en 2011 (EIA)
-		- van ca. 52 kWh/dag naar iets meer dan 60 kWh/dag nu
-		- http://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/2014-in-review.html
-			- Global primary energy consumption increased by just 0.9% in 2014, a marked deceleration over 2013 (+2.0%) and well below the 10-year average of 2.1%. 
-		- http://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html
-		- Current World Population 7376125000
-			- 2014 (midyear): 7,178,722,893
-			- 2004: 6,395,699,509
-		- 1 Mtoe = 11630000000 kWh
-		- 12928.4 Mtoe = 1.50357292E+14 kWh primary energy consumption in 2014 (BP estimate)
-		- 10556.6 Mtoe = 1.22773258E+14 kWh in 2004
-		- 1.50357292E+14 / 7178722893 = 20945 kWh/person = 57.3 kWh/person/day in 2014
-		- 1.22773258E+14 / 6395699509 = 19196 = 52.6 kWh/person/day in 2004
-		- 0.91% growth per year, on average
-	- EIA estimate for 2004: 55.3450572604
+Ieder jaar wordt het mondiale totaalverbruik van primaire energie geschat door de [U.S. Energy Information Administration (EIA)](http://www.eia.gov/cfapps/ipdbproject/IEDIndex3.cfm?tid=44&pid=44&aid=2) en door oliebedrijf [BP](http://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html). De groei in het mondiale energieverbruik varieert de laatste jaren tussen ongeveer -1% en +6%, en het tienjarig gemiddelde is volgens [BP](http://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/2014-in-review.html) +2.1%. In 2004 gebruikten we volgens BP 122773 TWh (Terawatt-uur) aan energie, en in 2014 was dat 150357 TWh. Echter, in die tien jaar is de wereldbevolking ook toegenomen, van 6.40 miljard mensen in 2004 tot 7.18 miljard in 2014.
+Op basis van de getallen van het EIA, was het primaire energieverbruik *per persoon* in 2004 rond de 55.3 kWh per dag, en is het nu meer dan 60 kWh per dag. Tussen 2000 en 2011 is het toegenomen met gemiddeld 1.3% per jaar. Volgens de getallen van BP, die iets lager zijn, was het in 2004 rond de 52.6 kWh per dag, en in 2014 57.3 kWh per dag, met een gemiddelde toename in deze periode van 0.91% per jaar. Volgens auteur [David MacKay](http://www.withouthotair.com/c18/page_104.shtml) gebruikt de gemiddelde Europeaan een stuk meer energie dan de gemiddelde wereldburger: ca. 125 kWh/dag aan primaire energie, plus nog eens minstens 40 kWh/dag voor de productie van geïmporteerde spullen.   
+Getallen over toename van het aantal kolencentrales in China worden genoemd door onder meer [Greenpeace](http://energydesk.greenpeace.org/2015/02/23/comment-new-coal-power-plants-china-carbon-bubble-waiting-burst/), [factcheck.org](http://www.factcheck.org/2014/11/checking-inhofes-energy-statistics-on-china/) en het enigszins neoliberale [Institute for Energy Research](http://instituteforenergyresearch.org/analysis/as-u-s-shutters-coal-plants-china-and-japan-are-building-them/). 
 
 
 [^energiekosten]:
-	- http://www.eia.gov/totalenergy/data/monthly/#prices
-	- http://ec.europa.eu/eurostat/statistics-explained/index.php/Energy_price_statistics
-	- https://data.oecd.org/energy/crude-oil-import-prices.htm#indicator-chart
-	- https://www.destatis.de/DE/Publikationen/Thematisch/Preise/Energiepreise/EnergyPriceTrendsPDF_5619002.pdf?__blob=publicationFile
-	- "dips" in oil and gas prices 2008-2009, and after 2012
-but electricity retail prices just keep increasing, in US and Europe
-	- in NL: http://atriensis.nl/nieuws/actueel/538/nev_2015_energierekening_gaat_weer_stijgen
-
+Gegevens over de kosten voor olie, aardgas en elektriciteit uit onder meer [de VS (van de EIA)](http://www.eia.gov/totalenergy/data/monthly/#prices), [de EU (van Eurostat)](http://ec.europa.eu/eurostat/statistics-explained/index.php/Energy_price_statistics), [de OECD](https://data.oecd.org/energy/crude-oil-import-prices.htm#indicator-chart) en [Duitsland](https://www.destatis.de/DE/Publikationen/Thematisch/Preise/Energiepreise/EnergyPriceTrendsPDF_5619002.pdf?__blob=publicationFile), laten een daling in de olie- en gasprijzen zien in 2008-2009, en na 2012. De prijzen van olie en gas zijn wegens overproductie en de economische crisis momenteel lager dan vóór 2008. Maar dit is vermoedelijk slechts een tijdelijk effect, en het heeft nauwelijks invloed gehad op de almaar stijgende prijzen van elektriciteit in de meeste landen. Voor Nederland is de verwachting dat [de prijzen voor elektriciteit de komende jaren flink zullen stijgen](http://atriensis.nl/nieuws/actueel/538/nev_2015_energierekening_gaat_weer_stijgen). 
 
 
 [^urbanenergy]:
-	- https://books.google.nl/books?id=eQe6vZ3R51YC&lpg=PA96&ots=ntddwzJGsH&dq=energy%20W%2Fm²%20cities&pg=PA96#v=onepage&q&f=false
-	- Direct energy use of Tokyo Metropolitan area is ±0.8EJ, London ±0.6EJ, New York City ±0.8EJ
-	- Energy-demand densities may be over 200 W/m² in some areas of Tokyo and London
-	- Average: 28.5 W/m² for central Tokyo, 27.4 W/m² for Inner London, 13 W/m² for greater London (Dhakal et al 2003, UKDECC 2010)
-	- Solar influx: 157 W/m² in Tokyo, 109 W/m² in London
-	- If all solar radiation could be converted to electricity w/20% eff: 31 W/m² and 22 W/m², but would require covering all surfaces of the city with solar panels, and installing interseasonal storage!
-	- [Smil, Power Density](https://books.google.nl/books?id=Mj87CQAAQBAJ&lpg=PA165&ots=IU5viKbjL4&pg=PA173)
-		- power density estimated at 10-21 W/m² in urban areas
-decreasing trend, modern energy-efficient house (single-storey) requires ±10 W/m²
-		- modern multi-storey offices can be under 50 W/m², and as low as 6 W/m² floor area, but modern high-rise buildings can use over 6kW/m²
-	- http://www.theenergycollective.com/robertwilson190/257481/why-power-density-matters
-		- solar PV in N-Europe ±5 W/m²
-	- http://www.pveducation.org/pvcdrom/properties-of-sunlight/average-solar-radiation
-		- zonlicht op aardoppervlak tot 30 kWh/dag/m², maar in N-Europa tussen ca. 0.5 en 6 kWh/dag/m², en voor steden zelden hoger dan 8 kWh/m²/dag
-		- dat is een daggemiddelde tot 1250 W/m², N-Europa tussen ca. 21 en 250 kWh/dag, in steden zelden hoger dan 300 W/m²
-	- binnenstad tegen de 30 W/m², stedelijke omgeving 10-20 W/m², dus 2-6 m² zonnepanelen nodig per m² stedelijk gebied (in N-Europa). 
-	- kantoor 6-6000+ W/m², dus 1-1000 m² zonnepanelen nodig per m² kantoorgebouw. 
-	- zon max. 200-250 W/m², zon-PV ±5 W/m², CEA-kasbouw en LED-CEA ca. 220-260 W/m² productieoppervlak, ongeveer gelijk aan gemiddelde zonne-energie-dichtheid. Ruimtegebruik niet erg efficient bij hernieuwbare energie: ongeveer 44 m² zonnepanelen nodig per m² productieoppervlak. 
-	- In werkelijkheid meer, want moet energie ofwel opslaan, of compenseren voor winter.
+Een goede uitleg van het begrip energiedichtheid wordt gegeven in het artikel [The Future of Energy: Why Power Density Matters](http://www.theenergycollective.com/robertwilson190/257481/why-power-density-matters). Robert Wilson schrijft dat een *solar farm* in de woestijn een opbrengst kan halen van zo'n 20 W/m². Echter, een installatie in Duitsland haalt meestal niet veel meer dan 5 W/m². Dit is inclusief het oppervlak dat nodig is voor de ruimte tussen de panelen.   
+In het boek [Energizing Sustainable Cities: Assessing Urban Energy](https://books.google.nl/books?id=eQe6vZ3R51YC) (Grubler & Fisk, 2013) wordt een [schatting gegeven van de energievraagdichtheid van een aantal grote steden](https://books.google.nl/books?id=eQe6vZ3R51YC&lpg=PA96&ots=ntddwzJGsH). De gemiddelde dichtheid van energieverbruik is 28.5 W/m² voor centraal Tokyo, 27.4 W/m² voor centraal London en 13 W/m² voor Greater London. In sommige gebieden van de steden is de energievraag echter meer dan 200 W/m². Het gaat hier om het directe verbruik, dus exclusief de energie die nodig is voor geïmporteerde producten. Tokyo ontvangt gemiddeld 157 W/m² aan zonnestraling, en London 109 W/m² (voor andere plaatsen, zie [deze kaart](http://www.pveducation.org/pvcdrom/properties-of-sunlight/average-solar-radiation)). Aangenomen dat 20% hiervan te gebruiken is, dan kan zonnestroom voorzien in respectievelijk 31 W/m² and 22 W/m² aan energie-opwekking in Tokyo en London. Dit vereist echter wel dat vrijwel alle oppervlaktes worden voorzien van PV-zonnepanelen en dat een deel van de opgewekte energie wordt opgeslagen voor gebruik in de winter. Dit is niet een erg realistisch scenario.   
+[Vaclav Smil](http://www.vaclavsmil.com/) schat in zijn boek [Power Density](https://books.google.nl/books?id=Mj87CQAAQBAJ&lpg=PA165&ots=IU5viKbjL4&pg=PA173) (2015) een typisch energieverbruik van 10-21 W/m² voor stedelijke gebieden. Dit is de laatste decennia overigens afgenomen, met name door efficiënter gebruik van energie in woningen. Een modern energie-efficiënt huis verbruikt ±10 W/m², en het verbruik van moderne kantoorgebouwen kan minder zijn dan 50 W/m², of 6 W per m² vloeroppervlak. Aan de andere kant, sommige hoge kantoorgebouwen verbruiken meer dan 6000 W/m².   
 
 
 [^foodmiles]:
-	- Food miles: 10-15% van energieverbruik
-	- https://attra.ncat.org/attra-pub/viewhtml.php?id=281
-	- http://www.worldwatch.org/node/6064
-
+*Ook het transport van landbouwproducten vergt energie, al maken "voedselkilometers" voor de meeste producten slechts 10-15% uit van het energieverbruik.*   
+Diverse aspecten van "food miles" worden uitgebreid besproken in dit [achtergrondartikel van ATTRA](https://attra.ncat.org/attra-pub/viewhtml.php?id=281) en in het artikel [Is Local Food Better?](http://www.worldwatch.org/node/6064) van The Worldwatch Institute.
 
 
 [^ceaenergy]:
-	- http://www.cornellcea.com/research/energy/index.html
-		- CEA hydroponic greenhouse (1999-2002), 6400 sq. ft. of growing area, 31,4135 kWh/year for lighting, 515,544 kWh/year total, 28568 therms gas average per year.
-		- 595 m², 860 kW/h per dag voor licht, 1.45 kWh/m²/dag, 60W/m² (secundaire energie!)
-		- 837045.57 kWh gas + electricity = 1352590 kWh per year total, or 2273 kwh/year/m², or 6.22 kWh/day/m², or 0.26 kW/m², or 259 W/m² + sunlight
-	- https://cuaes.cals.cornell.edu/sustainability/greenhouses/energy-use
-	- http://www.ceacapitalholdings.com/education/sub-page/
-	- http://www.cornellcea.com/attachments/Energy%20Scoping%20Study%20Final%20Report.pdf
-		- Vergelijking ijsbergsla, spinazie, aardbeien, tomaten en appels, veld en CEA in NY vs. import
-		- Productie-energie (veld) buiten NY (MJ/kg): 3, 9, 4, 11, 5
-		- in NY: 5, 9, 2, 7, 5
-		- Vervoer buiten NY: 10, 11, 11, 8, 9
-		- in NY: 0.4
-		- import is uit Mexico, Canada, Israel, Spanje, Chili, NL (tomaten) en NZ
-		- energie is primaire energie per kg. geconsumeerd, dus incl. verliezen van zowel voedsel als energieconversie
-		- Baby-Spinazie 179 MJ/kg in CEA-kasbouw vs. 21 in veld (p. 197-201) (50 kWh/kg vs. 6 kWh/kg, een factor 8.5)
-		- IJsbersla 97.4 MJ/kg versus 16.2 MJ/kg (27 kWh/kg vs. 4.5, een factor 6)
-	- [VERTICAL – The re-development of vacant urban structures into viable food production centres utilising agricultural production techniques, 17 April 2015, Luuk J. A. Graamans, MSc-thesis Delft](http://repository.tudelft.nl/assets/uuid:f9dd86ce-22a9-4dfe-b66e-ef55230e3856/Luuk_Graamans_1502662_VERTICAL_MSc_graduation_thesis.pdf)
-		- Het verbouwen van sla in leegstaande gebouwen. ch 10, p.161
-		- In Hong Kong, the total production amounts to 10,654 metric ton (fresh weight) and 535 metric ton (dry weight) of lettuce at an energy expenditure of approximately 428 GWh per year. The design contains 222,075 m² of production surface on a footprint of 2180 m².
-			- 1.927276821 MWh/year/m² prod., or 5.28 kWh/day/m², or 0.22 kW/m² prod.
-		- In Delft, the total production amounts to 1437 metric ton (fresh weight) and 72 metric ton (dry weight) at an energy expenditure of approximately 57 GWh. The design contains 29,971 m² of production surface on a footprint of 902 m².
-			- 6.6 kg per m² per jaar
-			- 1901.838 kWh/year/m² prod = 5.21 kWh/day/m² = 0.22 kW/m² prod. = 220 W/m²
-			- of ca 10x zoveel per m² grondoppervlak
-		- secundaire energie, dus ca 3x zoveel primaire energie (efficientie primair->elektra is ca. 32%), plus post-production loss
-		- ca. 40 kWh/kg in beide gevallen, dus 120 kWh/kg primair in het geval van fossiele energie, of 8 m² zonnepanelen per kg product
-	- [Khan, M.A., S. Khan and S. Mushtaq. 2009. Energy and economic efficiency analysis of rice and cotton production in China. Sarhad J. Agric. 25(2): 291-300.](http://www.aup.edu.pk/sj_pdf/ENERGY%20AND%20ECONOMIC%20EFFICIENCY%20ANALYSIS%20OF%20RICE.PDF)
-		- Voorbeeld voor rijst in China ±1.5 kWh/kg, waarvan 2/3 voor kunstmest
-	- Vergelijk met sla in NY: 4-6 kWh/kg geconsumeerd product, primaire energie incl. verliezen en transport (p. 207) 
-		- Energy data, in MJ/kg for production and transport of crops imported to New York (of quantity eaten) are as follows:
-			- Crop 		Imported	Local 	Ratio, Imported to Local
-			- Head lettuce 	24 		7.3 	3.3
-			- Fresh tomato 	35 		9.8 	3.6
-			- Fresh spinach 	48 		12.6 	3.8
-			- Fresh strawberry 23 		3.2 	7.2
-			- Fresh apple 	23 		7.2 	3.2
-		- Transportation energy alone, for imported crops, in MJ/kg eaten, ranges from 14 for apples to 27 for fresh spinach. Transportation energy exceeds production energy for imports.
+*Voor ijsbergsla en baby-spinazie van het land, geïmporteerd over een gemiddelde afstand van ruim 4500 km, was het primaire energieverbruik respectievelijk rond 4.5 en 6 kWh per kg geconsumeerd product (met transport en verliezen meegerekend). Bij lokale kasbouw kon dit oplopen tot 27 en 50 kWh/kg, een factor 6 tot 9 hoger.*   
+[Cornell University](https://www.google.nl/maps/place/Cornell+University/@42.4534492,-85.4295911,5z/data=!4m2!3m1!1s0x0:0xf50ee64d821b9ff4), in de staat New York, heeft een [Controlled Environment Agriculture (CEA) kassencomplex](http://www.cornellcea.com/research/energy/), gebouwd in 1999. In de periode 1999-2003 bedroeg het gemiddelde [energieverbruik](http://www.cornellcea.com/attachments/CEAGreenhouseEnergyAudit.pdf) voor 595 m² productieoppervlak zo'n 3703 kWh per dag (259 W/m²), waarvan 860 kWh voor licht en 2292 kWh aan aardgas voor verwarming. Inmiddels is het energieverbruik lager, door toepassing van [efficiëntere apparatuur](http://energyandsustainability.fs.cornell.edu/file/GuttermanBdg_Cons_Proj_Summary_5_2013.pdf). Het energieverbruik van de kassen van Cornell wordt [nauwlettend bijgehouden](https://cuaes.cals.cornell.edu/sustainability/greenhouses/energy-use).   
+De vergelijking tussen [geïmporteerde producten en lokaal verbouwde producten](http://www.cornellcea.com/attachments/Energy%20Scoping%20Study%20Final%20Report.pdf) uit 2009, keek naar ijsbergsla, spinazie, aardbeien, tomaten en appels. De studie concludeerde dat de benodigde energie voor transport hoger was dan de energie die nodig was om de producten te verbouwen in New York (zie p. 192-193). Echter, sommige van de geïmporteerde producten kwamen uit Mexico, Israël, Spanje, Chili, Nieuw-Zeeland en Nederland (tomaten!), wat leidde tot een relatief hoog energieverbruik voor transport (zie p. 194-195 en 207). Het energieverbruik voor import van sla en spinazie versus productie in de CEA-kassen van Cornell wordt vergeleken op pagina 197-201.
 
 
 [^londonrent]:
-	- http://www.mirror.co.uk/news/uk-news/house-prices-12k-now-buy-5931726
-		- huizenprijs prijs per vierkante meter in sommige delen van London 6000-12000 GBP/m², ca. 8340-16172 EUR/m²
-	- http://www.globalpropertyguide.com/Europe/United-Kingdom/Rental-Yields
-		- huur tot 44-63.58 GBP/m² voor huizen (2014), 61-89 euro
-	- http://www.findalondonoffice.co.uk/toolbox/rental-guide/
-		- 68-150 GBP/ft2 voor kantoren, 95-197 EUR / 0.092903 m² = 1022-2120 EUR/m²
-		- In Midtown, 1000ft2 of decent quality space occupied by say 12 people, will cost almost £100k per annum.
-		- 92.9 m² is 138997 EUR, bijna 1500 EURO/m²
-	- http://www.statista.com/statistics/323023/prime-office-rental-costs-in-london-uk-by-area/
-		- 650-1432 EUR/m² voor kantoren in 2014, afhankelijk van locatie
+In sommige wijken van London is de koopprijs voor huizen momenteel [6000-12000 GBP/m²](http://www.mirror.co.uk/news/uk-news/house-prices-12k-now-buy-5931726), ca. 8340-16172 EUR/m². In 2014 waren de huurprijzen in centraal London, afhankelijk van de wijk, tot
+[44-64 GBP/m²](http://www.globalpropertyguide.com/Europe/United-Kingdom/Rental-Yields), zo'n 61-89 EUR/m². Kantoorruimte was in diezelfde periode ongeveer [54-119 EUR/m²](http://www.statista.com/statistics/323023/prime-office-rental-costs-in-london-uk-by-area/), afhankelijk van de locatie. In centraal London worden momenteel huurprijzen gevraagd van [68-150 GBP/ft²](http://www.findalondonoffice.co.uk/toolbox/rental-guide) per jaar, omgerekend 85-177 EUR/m² per maand. Voor 93 m² (1000 ft²), een kantoorruimte voor zo'n 12 mensen, al snel bijna £100000 per jaar, wat neerkomt op een maandbedrag van zo'n 125 EUR/m².
 
