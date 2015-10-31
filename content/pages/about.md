@@ -33,4 +33,7 @@ Deze blog is in de eerste plaats bedoeld om mijn mening te vormen, aan de hand v
 
 Deze website draait momenteel op een Raspberry Pi, en is nog in ontwikkeling. Onze excuses voor het enigszins spartaanse uiterlijk en de minimalistische opzet.
 
-**Contact:** feedback@duurzaamheidsweb.nl
+**Contact:** feedback@duurzaamheidsweb.nl   
+
+Volg Duurzaamheidsweb op [Facebook](https://www.facebook.com/duurzaamheidsweb) of via onze [Atom-feed](/feeds/all.atom.xml).
+
