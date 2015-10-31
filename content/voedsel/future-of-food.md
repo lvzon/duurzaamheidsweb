@@ -3,11 +3,10 @@ Authors: Levien van Zon
 Date: 2015-10-31
 Tags: voedsel
 Slug: future-of-food
-Status: draft
 
 **Door Levien van Zon**
 
-*Dit artikel is gepubliceerd op [Foodlog](http://www.foodlog.nl/).
+*Dit artikel is gepubliceerd op [Foodlog](http://www.foodlog.nl/artikel/the-future-of-food-voor-rijke-consumenten/).
 De voetnoten in dit artikel bevatten extra achtergrondinformatie en bronnen, en zijn straffeloos over te slaan of apart te lezen.*
 
 Op 15 oktober werd de documentairefilm [The Future of Food](http://commerceoftomorrow.com/food) gelanceerd, gemaakt in opdracht van PostNL. Het lijkt het eerste deel te zijn van [Commerce of Tomorrow](http://commerceoftomorrow.com/) een "multi chapter documentary" over de toekomst van *e-commerce*. De introductie spreekt van "A conversation with leading voices", en "A 360° journey":
@@ -115,7 +114,7 @@ Hoewel de industriële landbouwtechnieken van de groene revolutie extreem succes
 
 Interesse in meer artikelen? Volg ons [op Facebook](https://www.facebook.com/duurzaamheidsweb), of via de [Atom-feed](/feeds/all.atom.xml).
 
-*Met dank aan [Dick Veerman van Foodlog](http://www.foodlog.nl/profiel/3/) voor de uitnodiging tot het schrijven van dit artikel, en voor eem groot aantal redactionele verbeteringen.*
+*Met dank aan [Dick Veerman van Foodlog](http://www.foodlog.nl/profiel/3/) voor de uitnodiging tot het schrijven van dit artikel, en voor een groot aantal tekstuele verbeteringen.*
 
 
 [^foodnutrition]:
