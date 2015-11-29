@@ -1,7 +1,7 @@
 Title: Waarom CO2 een zorg zou moeten zijn (ook voor sceptici)
 Authors: Levien van Zon
 Date: 2014-09-21
-Modified: 2015-07-25
+Modified: 2015-11-02
 Tags: CO2, klimaat
 Slug: co2
 
@@ -65,7 +65,7 @@ Welke manier we in de toekomst ook gebruiken om energie te produceren, het is be
 
 ###En wat kunnen gewone mensen doen?
 
-Grote omwentelingen in de maatschappij komen zelden tot nooit uit de politiek. Grote omwentelingen gebeuren omdat voldoende mensen het willen, omdat het kan, of omdat men geen keus heeft. Als burger en als kiezer heb je invloed, op de politiek en op andere mensen om je heen. En als consument, als werknemer, als onderzoeker, als ondernemer, als ambtenaar of als docent hoef je natuurlijk niet te wachten totdat de politiek, de wetenschap en het bedrijfsleven grootschalige veranderingen in gang zetten. In je werk en in je privéleven kun je keuzes maken, en op die manier invloed uitoefenen op de maatschappij. Waarschijnlijk slechts een klein deel van de maatschappij, maar een deel niettemin. En in het volgende artikel zal ik in meer detail kijken naar de uitstoot van broeikasgassen door consumptie. Maar met het volgende figuur neem ik hierop alvast een voorschot (klik om te vergroten): 
+Grote omwentelingen in de maatschappij komen zelden tot nooit uit de politiek. Grote omwentelingen gebeuren omdat voldoende mensen het willen, omdat het kan, of omdat men geen keus heeft. Als burger en als kiezer heb je invloed, op de politiek en op andere mensen om je heen. En als consument, als werknemer, als onderzoeker, als ondernemer, als ambtenaar of als docent hoef je natuurlijk niet te wachten totdat de politiek, de wetenschap en het bedrijfsleven grootschalige veranderingen in gang zetten. In je werk en in je privéleven kun je keuzes maken, en op die manier invloed uitoefenen op de maatschappij. Waarschijnlijk slechts een klein deel van de maatschappij, maar een deel niettemin. En in een volgend artikel zal ik in meer detail kijken naar de uitstoot van broeikasgassen door consumptie. Maar met het volgende figuur neem ik hierop alvast een voorschot (klik om te vergroten): 
 
 [![broeikas-uitstoot door consumptie]({filename}/images/co2-voetafdruk-consumptie-nl.png)]({filename}/pages/ghg-consumption-nl.md)
 
@@ -83,6 +83,7 @@ Het overgrote deel van onze *CO~2~-voetafdruk* wordt gevormd door de aanschaf va
 
 
 Interesse in meer artikelen? Volg ons [op Facebook](https://www.facebook.com/duurzaamheidsweb), of via de [Atom-feed](/feeds/all.atom.xml).
+Bekijk de [historie van wijzigingen](https://github.com/lvzon/duurzaamheidsweb/commits/master/content/CO2/CO2.md) aan dit artikel. 
 
 
 **Dankwoord:** *Een deel van dit artikel is geïnspireerd door een lezing van Dr. Jan van Maarseveen, op het symposium Academici & Klimaatverandering op 16 september 2014 aan de UvA. Dit symposium was georganiseerd door het Academisch Milieu Platform Amsterdam.*
@@ -97,7 +98,7 @@ Interesse in meer artikelen? Volg ons [op Facebook](https://www.facebook.com/duu
 Dit hangt er een beetje vanaf welke peiling je neemt.
 Volgens het [onderzoek van Nielsen in 2011](http://www.nielsen.com/content/dam/corporate/us/en/reports-downloads/2011-Reports/nieslen-sustainability-report.pdf) was 19% van de Nederlanders onbezorgd over klimaatverandering, had 33% geen mening en was 48% bezorgd. Volgens een [recente peiling van weeronline.nl](http://nieuws.weeronline.nl/nederlander-mens-beinvloedt-op-klimaatverandering/) gelooft 31% van de respondenten niet dat de mens bijdraagt aan klimaatverandering. 
 Een [onderzoek van de Europese Commissie in 2013](http://ec.europa.eu/clima/citizens/support/docs/report_2014_en.pdf) gaf aan dat 57% van de ondervraagde Nederlanders klimaatverandering in de top-3 van belangrijke problemen zou zetten.
-Een [peiling van TNS Nipo in 2007](http://www.pbl.nl/sites/default/files/cms/publicaties/klimaatveranderingmensenwerk.pdf) geloofde 90% van de Nederlanders in het bestaan van klimaatverandering, en 80% in een grote menselijke bijdrage. Maar tevens was 27% van de ondervraagden niet echt geïnteresseerd in het onderwerp, was bijna de helft moe van het onderwerp, en wist meer dan de helft niet meer goed wat ze moesten geloven. Een [peiling van TNS Nipo vier jaar eerder, in 2003](http://www.trouw.nl/tr/nl/4324/Nieuws/archief/article/detail/1785143/2003/10/07/Meeste-Nederlanders-niet-bezorgd-om-klimaat.dhtml) gaf aan dat 27% niet geloofde dat de mens invloed had op het klimaat.
+Volgens een [peiling van TNS Nipo in 2007](http://www.pbl.nl/sites/default/files/cms/publicaties/klimaatveranderingmensenwerk.pdf) geloofde 90% van de Nederlanders in het bestaan van klimaatverandering, en 80% in een grote menselijke bijdrage. Maar tevens was 27% van de ondervraagden niet echt geïnteresseerd in het onderwerp, was bijna de helft moe van het onderwerp, en wist meer dan de helft niet meer goed wat ze moesten geloven. Een [peiling van TNS Nipo vier jaar eerder, in 2003](http://www.trouw.nl/tr/nl/4324/Nieuws/archief/article/detail/1785143/2003/10/07/Meeste-Nederlanders-niet-bezorgd-om-klimaat.dhtml) gaf aan dat 27% niet geloofde dat de mens invloed had op het klimaat.
 In een [internetopiniepeiling van 21minuten.nl in 2009](http://www.algemene-energieraad.nl/newsitem.asp?pageid=12445) kwam klimaat niet voor in de top-10 van grootste zorgen. Het onderwerp eindigde op de veertiende plaats.
 
 
@@ -169,7 +170,7 @@ Overigens kan de winning van fossiele brandstoffen uiteraard ook positieve effec
 *Zelfs als je alle elektriciteit op zou wekken met een kolencentrale dan is de indirecte uitstoot van een elektrische auto nog steeds minder dan die van een reguliere auto.*   
 David McKay laat dit zien in zijn boek [Sustainable Energy Without the Hot Air](http://www.withouthotair.com/c20/page_131.shtml), maar het is ook makkelijk zelf uit te rekenen.
 In 2011 was het gemiddeld rendement voor elektriciteitsproductie in Nederland 52%, inclusief hernieuwbare bronnen, en 44% exclusief hernieuwbare bronnen (bron: [CBS](http://www.cbs.nl/NR/rdonlyres/F650310E-978E-475F-9E2E-EDB33236539A/0/2013rendementenenCO2emissievanelektriciteitsproductieinnederlandart.pdf)). Een elektromotor zet elektriciteit om in beweging met een rendement tot ongeveer 90%, laten we voor het gemak zeggen dat dit 85% is. Lithium-ion-accu's verliezen eveneens wat stroom bij laden en ontladen, en hebben een rendement van rond de 90%. Zelfs zonder hernieuwbare energie en [maatregelen als het terugwinnen van rem-energie](http://www.withouthotair.com/c20/page_124.shtml), zou een elektrische auto dus een brandstof-rendement halen van ongeveer 0.44 × 0.85 × 0.90 = 34%. Dit is niet geweldig, maar nog steeds flink hoger dan [het brandstof-rendement van een verbrandingsmotor, dat rond de 25% ligt](http://www.withouthotair.com/cA/page_254.shtml).   
-Bij dit voorbeeld is uiteraard geen rekening gehouden met de energie die nodig is voor het produceren van een elektrische auto, die vooral bij hybride modellen nog wel eens hoger ligt dan de energie benodigd voor het produceren van een reguliere auto. Ook is geen rekening gehouden met de relatief korte levensduur van accu's. Echter, zeker met inzet van hernieuwbare energiebronnen voor het laden van accu's, terugwinning van rem-energie en recycling van accu's aan het eind van de levensduur, is de totale broeikas-uitstoot van elektrisch rijden vrijwel zeker veel lager dan bij gebruik van een verbrandingsmotor.
+Bij dit voorbeeld is uiteraard geen rekening gehouden met de energie die nodig is voor het produceren van een elektrische auto, die vooral bij hybride modellen meestal hoger ligt dan de energie benodigd voor het produceren van een reguliere auto. Ook is geen rekening gehouden met de relatief korte levensduur van accu's. Omdat ze nog vrij veel energie kosten om te maken en elektriciteit vooral betrokken wordt uit fossiele brandstoffen, verbruikt de huidige generatie elektrische auto's niet noodzakelijkerwijs minder primaire energie dan een auto met verbrandingsmotor. Echter, met inzet van meer hernieuwbare energiebronnen voor het produceren van auto's en het laden van accu's, terugwinning van rem-energie in auto's en recycling van accu's aan het eind van de levensduur, kan de totale broeikas-uitstoot van elektrisch rijden vrijwel zeker veel lager worden dan bij gebruik van een verbrandingsmotor.
 
 
 

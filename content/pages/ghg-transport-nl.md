@@ -8,7 +8,7 @@ Status: hidden
 
 [![De klimaat-voetafdruk van verkeer in Nederland]({filename}/images/co2-voetafdruk-verkeer-nl.png)]({filename}/images/co2-voetafdruk-verkeer-nl.png)
 
-Dit figuur geeft een grof overzicht van de broeikas-uitstoot van vervoer in Nederland, in kg CO~2~-eq. per gemiddelde Nederlander per dag (in 2012). Te zien is dat verreweg de meeste uitstoot (5.4 kg) wordt veroorzaakt door wegverkeer, vooral door personenauto's (3.45 kg). De gemiddelde Nederlander in 2012 legde ruim 22 km per dag af in een personenauto. Bijna 8 km hiervan was voor werk, en 9 km was recreatief en sociaal (dit is inclusief vakanties). Hoewel de Nederlander gemiddeld ook 2.2 km per dag reisde per trein, is de uitstoot hiervan vrijwel verwaarloosbaar. 
+Dit figuur geeft een grof overzicht van de broeikas-uitstoot van vervoer in Nederland, in kg CO~2~-eq. per gemiddelde Nederlander per dag, in 2012 (klik op het figuur om te vergroten). Te zien is dat verreweg de meeste uitstoot (5.4 kg) wordt veroorzaakt door wegverkeer, vooral door personenauto's (3.45 kg). De gemiddelde Nederlander in 2012 legde ruim 22 km per dag af in een personenauto. Bijna 8 km hiervan was voor werk, en 9 km was recreatief en sociaal (dit is inclusief vakanties). Hoewel de Nederlander gemiddeld ook 2.2 km per dag reisde per trein, is de uitstoot hiervan vrijwel verwaarloosbaar. 
 
 Vliegverkeer levert ook een aardige bijdrage aan broeikas-emissies, hoewel deze iets meer dan de helft is van de bijdrage van personenauto's. De gemiddelde Nederlander reisde in 2010 naar schatting bijna 3700 km per vliegtuig, wat neerkomt op ongeveer 10 km per dag, en een uitstoot van rond de 1.76 kg CO~2~-eq. per Nederlander per dag.
 
