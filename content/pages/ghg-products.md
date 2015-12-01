@@ -38,6 +38,6 @@ Dit figuur toont schattingen van de broeikas-uitstoot voor enkele consumptiegoed
 
    - De geschatte emissies voor 10 km rijden in een Citroën C1, een Ford Mondeo en een Land Rover Discovery zijn gebaseerd op getallen uit de [Autoweek Verbruiksmonitor](http://www.autoweek.nl/verbruiksmonitor). Het gemiddeld verbruik van een C1 is 0.534 L benzine per 10 km (ofwel 19 km/L), van de Mondeo 0.839 L benzine per 10 km (ofwel 12 km/L), en van een Discovery 1.1 L diesel per 10 km (ofwel 9 km/L diesel). Ik ben uitgegaan van een uitstoot van 2.8 kg CO~2~-eq per L benzine, en 3.2 kg CO~2~-eq per L diesel.
 
-   - Een retourvlucht Amsterdam - Bangkok is ca. 18340 km (bron: www.webflyer.com). Met een uitstoot van 0.147 kg CO~2~-eq per km voor intercontinentaal vliegen, zou de vlucht neerkomen op 2696 kg CO~2~-eq.
+   - Een retourvlucht Amsterdam - Bangkok is ca. 18340 km (bron: www.webflyer.com). Met een uitstoot van 0.147 kg CO~2~-eq per km voor intercontinentaal vliegen, zou de vlucht neerkomen op 2696 kg CO~2~-eq per passagier.
 
 
